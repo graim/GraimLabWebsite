@@ -1,23 +1,1302 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- &id001
-  id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1101/gr.256388.119
+  title: Modeling molecular development of breast cancer in canine mammary tumors
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2015-11-05'
-  link: https://doi.org/c7np
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867415013392-fx1.jpg
-  tags:
-  - TCGA
-  - prostate cancer
+  - Kiley Graim
+  - Dmitriy Gorenshteyn
+  - David G. Robinson
+  - Nicholas J. Carriero
+  - James A. Cahill
+  - Rumela Chakrabarti
+  - Michael H. Goldschmidt
+  - Amy C. Durham
+  - Julien Funk
+  - John D. Storey
+  - Vessela N. Kristensen
+  - Chandra L. Theesfeld
+  - Karin U. Sorenmo
+  - Olga G. Troyanskaya
+  publisher: Genome Research
+  date: '2021-02-01'
+  link: https://doi.org/gkf5bn
+- id: pmid:30864317
+  title: 'PLATYPUS: A Multiple-View Learning Predictive Framework for Cancer Drug
+    Sensitivity Prediction.'
+  authors:
+  - Kiley Graim
+  - Verena Friedl
+  - Kathleen E Houlahan
+  - Joshua M Stuart
+  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+  date: '2019-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30864317
+- id: pmc:PMC6417802
+  title: 'PLATYPUS: A Multiple-View Learning Predictive Framework for Cancer Drug
+    Sensitivity Prediction'
+  authors:
+  - Kiley Graim
+  - Verena Friedl
+  - Kathleen E Houlahan
+  - Joshua M Stuart
+  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+  date: '2019-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6417802/
+- id: pmid:30322867
+  title: Integrative Molecular Characterization of Malignant Pleural Mesothelioma.
+  authors:
+  - Julija Hmeljak
+  - Francisco Sanchez-Vega
+  - Katherine A Hoadley
+  - Juliann Shih
+  - Chip Stewart
+  - David Heiman
+  - Patrick Tarpey
+  - Ludmila Danilova
+  - Esther Drill
+  - Ewan A Gibb
+  - Reanne Bowlby
+  - Rupa Kanchi
+  - Hatice U Osmanbeyoglu
+  - Yoshitaka Sekido
+  - Jumpei Takeshita
+  - Yulia Newton
+  - Kiley Graim
+  - Manaswi Gupta
+  - Carl M Gay
+  - Lixia Diao
+  - David L Gibbs
+  - Vesteinn Thorsson
+  - Lisa Iype
+  - Havish Kantheti
+  - David T Severson
+  - Gloria Ravegnini
+  - Patrice Desmeules
+  - Achim A Jungbluth
+  - William D Travis
+  - Sanja Dacic
+  - Lucian R Chirieac
+  - "Fran\xE7oise Galateau-Sall\xE9"
+  - Junya Fujimoto
+  - Aliya N Husain
+  - Henrique C Silveira
+  - Valerie W Rusch
+  - Robert C Rintoul
+  - Harvey Pass
+  - Hedy Kindler
+  - Marjorie G Zauderer
+  - David J Kwiatkowski
+  - Raphael Bueno
+  - Anne S Tsao
+  - Jenette Creaney
+  - Tara Lichtenberg
+  - Kristen Leraas
+  - Jay Bowen
+  - ' '
+  - Ina Felau
+  - Jean Claude Zenklusen
+  - Rehan Akbani
+  - Andrew D Cherniack
+  - Lauren A Byers
+  - Michael S Noble
+  - Jonathan A Fletcher
+  - A Gordon Robertson
+  - Ronglai Shen
+  - Hiroyuki Aburatani
+  - Bruce W Robinson
+  - Peter Campbell
+  - Marc Ladanyi
+  publisher: Cancer discovery
+  date: '2018-10-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30322867
+- id: doi:10.1158/2159-8290.cd-18-0804
+  title: Integrative Molecular Characterization of Malignant Pleural Mesothelioma
+  authors:
+  - Julija Hmeljak
+  - Francisco Sanchez-Vega
+  - Katherine A. Hoadley
+  - Juliann Shih
+  - Chip Stewart
+  - David Heiman
+  - Patrick Tarpey
+  - Ludmila Danilova
+  - Esther Drill
+  - Ewan A. Gibb
+  - Reanne Bowlby
+  - Rupa Kanchi
+  - Hatice U. Osmanbeyoglu
+  - Yoshitaka Sekido
+  - Jumpei Takeshita
+  - Yulia Newton
+  - Kiley Graim
+  - Manaswi Gupta
+  - Carl M. Gay
+  - Lixia Diao
+  - David L. Gibbs
+  - Vesteinn Thorsson
+  - Lisa Iype
+  - Havish Kantheti
+  - David T. Severson
+  - Gloria Ravegnini
+  - Patrice Desmeules
+  - Achim A. Jungbluth
+  - William D. Travis
+  - Sanja Dacic
+  - Lucian R. Chirieac
+  - "Fran\xE7oise Galateau-Sall\xE9"
+  - Junya Fujimoto
+  - Aliya N. Husain
+  - Henrique C. Silveira
+  - Valerie W. Rusch
+  - Robert C. Rintoul
+  - Harvey Pass
+  - Hedy Kindler
+  - Marjorie G. Zauderer
+  - David J. Kwiatkowski
+  - Raphael Bueno
+  - Anne S. Tsao
+  - Jenette Creaney
+  - Tara Lichtenberg
+  - Kristen Leraas
+  - Jay Bowen
+  - Ina Felau
+  - Jean Claude Zenklusen
+  - Rehan Akbani
+  - Andrew D. Cherniack
+  - Lauren A. Byers
+  - Michael S. Noble
+  - Jonathan A. Fletcher
+  - A. Gordon Robertson
+  - Ronglai Shen
+  - Hiroyuki Aburatani
+  - Bruce W. Robinson
+  - Peter Campbell
+  - Marc Ladanyi
+  - ' '
+  publisher: Cancer Discovery
+  date: '2018-12-01'
+  link: https://doi.org/ggnwkn
+- id: pmid:29471451
+  title: Genomic Evidence of Widespread Admixture from Polar Bears into Brown Bears
+    during the Last Ice Age.
+  authors:
+  - James A Cahill
+  - Peter D Heintzman
+  - Kelley Harris
+  - Matthew D Teasdale
+  - Joshua Kapp
+  - Andre E R Soares
+  - Ian Stirling
+  - Daniel Bradley
+  - Ceiridwen J Edwards
+  - Kiley Graim
+  - Aliaksandr A Kisleika
+  - Alexander V Malev
+  - Nigel Monaghan
+  - Richard E Green
+  - Beth Shapiro
+  publisher: Molecular biology and evolution
+  date: '2018-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29471451
+- id: doi:10.1093/molbev/msy018
+  title: Genomic Evidence of Widespread Admixture from Polar Bears into Brown Bears
+    during the Last Ice Age
+  authors:
+  - James A Cahill
+  - Peter D Heintzman
+  - Kelley Harris
+  - Matthew D Teasdale
+  - Joshua Kapp
+  - Andre E R Soares
+  - Ian Stirling
+  - Daniel Bradley
+  - Ceiridwen J Edwards
+  - Kiley Graim
+  - Aliaksandr A Kisleika
+  - Alexander V Malev
+  - Nigel Monaghan
+  - Richard E Green
+  - Beth Shapiro
+  publisher: Molecular Biology and Evolution
+  date: '2018-05-01'
+  link: https://doi.org/gc3nsx
+- id: pmid:29211761
+  title: Prophetic Granger Causality to infer gene regulatory networks.
+  authors:
+  - Daniel E Carlin
+  - Evan O Paull
+  - Kiley Graim
+  - Christopher K Wong
+  - Adrian Bivol
+  - Peter Ryabinin
+  - Kyle Ellrott
+  - Artem Sokolov
+  - Joshua M Stuart
+  publisher: PloS one
+  date: '2017-12-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29211761
+- id: pmc:PMC5718405
+  title: Prophetic Granger Causality to infer gene regulatory networks
+  authors:
+  - Daniel E Carlin
+  - Evan O Paull
+  - Kiley Graim
+  - Christopher K Wong
+  - Adrian Bivol
+  - Peter Ryabinin
+  - Kyle Ellrott
+  - Artem Sokolov
+  - Joshua M Stuart
+  publisher: PloS one
+  date: '2017-12-06'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5718405/
+- id: doi:10.1371/journal.pone.0170340
+  title: Prophetic Granger Causality to infer gene regulatory networks
+  authors:
+  - Daniel E. Carlin
+  - Evan O. Paull
+  - Kiley Graim
+  - Christopher K. Wong
+  - Adrian Bivol
+  - Peter Ryabinin
+  - Kyle Ellrott
+  - Artem Sokolov
+  - Joshua M. Stuart
+  publisher: PLOS ONE
+  date: '2017-12-06'
+  link: https://doi.org/gcnnbc
+- id: pmid:29092953
+  title: 'TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive
+    Portal.'
+  authors:
+  - Yulia Newton
+  - Adam M Novak
+  - Teresa Swatloski
+  - Duncan C McColl
+  - Sahil Chopra
+  - Kiley Graim
+  - Alana S Weinstein
+  - Robert Baertsch
+  - Sofie R Salama
+  - Kyle Ellrott
+  - Manu Chopra
+  - Theodore C Goldstein
+  - David Haussler
+  - Olena Morozova
+  - Joshua M Stuart
+  publisher: Cancer research
+  date: '2017-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29092953
+- id: doi:10.1158/0008-5472.CAN-17-0580
+  title: 'TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive
+    Portal'
+  authors:
+  - Yulia Newton
+  - Adam M. Novak
+  - Teresa Swatloski
+  - Duncan C. McColl
+  - Sahil Chopra
+  - Kiley Graim
+  - Alana S. Weinstein
+  - Robert Baertsch
+  - Sofie R. Salama
+  - Kyle Ellrott
+  - Manu Chopra
+  - Theodore C. Goldstein
+  - David Haussler
+  - Olena Morozova
+  - Joshua M. Stuart
+  publisher: Cancer Research
+  date: '2017-10-31'
+  link: https://doi.org/gcjwxf
+- id: pmc:PMC5751940
+  title: 'TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive
+    Portal'
+  authors:
+  - Yulia Newton
+  - Adam M Novak
+  - Teresa Swatloski
+  - Duncan C McColl
+  - Sahil Chopra
+  - Kiley Graim
+  - Alana S Weinstein
+  - Robert Baertsch
+  - Sofie R Salama
+  - Kyle Ellrott
+  - Manu Chopra
+  - Theodore C Goldstein
+  - David Haussler
+  - Olena Morozova
+  - Joshua M Stuart
+  publisher: Cancer research
+  date: '2017-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751940/
+- id: pmc:PMC5814247
+  title: A Community Challenge for Inferring Genetic Predictors of Gene Essentialities
+    through Analysis of a Functional Screen of Cancer Cell Lines
+  authors:
+  - "Mehmet G\xF6nen"
+  - Barbara A Weir
+  - Glenn S Cowley
+  - Francisca Vazquez
+  - Yuanfang Guan
+  - Alok Jaiswal
+  - Masayuki Karasuyama
+  - Vladislav Uzunangelov
+  - Tao Wang
+  - Aviad Tsherniak
+  - Sara Howell
+  - Daniel Marbach
+  - Bruce Hoff
+  - Thea C Norman
+  - Antti Airola
+  - Adrian Bivol
+  - Kerstin Bunte
+  - Daniel Carlin
+  - Sahil Chopra
+  - Alden Deran
+  - Kyle Ellrott
+  - Peddinti Gopalacharyulu
+  - Kiley Graim
+  - Samuel Kaski
+  - Suleiman A Khan
+  - Yulia Newton
+  - Sam Ng
+  - Tapio Pahikkala
+  - Evan Paull
+  - Artem Sokolov
+  - Hao Tang
+  - Jing Tang
+  - Krister Wennerberg
+  - Yang Xie
+  - Xiaowei Zhan
+  - Fan Zhu
+  - ' Broad-DREAM Community'
+  - Tero Aittokallio
+  - Hiroshi Mamitsuka
+  - Joshua M Stuart
+  - Jesse S Boehm
+  - David E Root
+  - Guanghua Xiao
+  - Gustavo Stolovitzky
+  - William C Hahn
+  - Adam A Margolin
+  publisher: Cell systems
+  date: '2017-11-22'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5814247/
+- id: pmid:28988802
+  title: A Community Challenge for Inferring Genetic Predictors of Gene Essentialities
+    through Analysis of a Functional Screen of Cancer Cell Lines.
+  authors:
+  - "Mehmet G\xF6nen"
+  - Barbara A Weir
+  - Glenn S Cowley
+  - Francisca Vazquez
+  - Yuanfang Guan
+  - Alok Jaiswal
+  - Masayuki Karasuyama
+  - Vladislav Uzunangelov
+  - Tao Wang
+  - Aviad Tsherniak
+  - Sara Howell
+  - Daniel Marbach
+  - Bruce Hoff
+  - Thea C Norman
+  - Antti Airola
+  - Adrian Bivol
+  - Kerstin Bunte
+  - Daniel Carlin
+  - Sahil Chopra
+  - Alden Deran
+  - Kyle Ellrott
+  - Peddinti Gopalacharyulu
+  - Kiley Graim
+  - Samuel Kaski
+  - Suleiman A Khan
+  - Yulia Newton
+  - Sam Ng
+  - Tapio Pahikkala
+  - Evan Paull
+  - Artem Sokolov
+  - Hao Tang
+  - Jing Tang
+  - Krister Wennerberg
+  - Yang Xie
+  - Xiaowei Zhan
+  - Fan Zhu
+  - ' '
+  - Tero Aittokallio
+  - Hiroshi Mamitsuka
+  - Joshua M Stuart
+  - Jesse S Boehm
+  - David E Root
+  - Guanghua Xiao
+  - Gustavo Stolovitzky
+  - William C Hahn
+  - Adam A Margolin
+  publisher: Cell systems
+  date: '2017-10-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28988802
+- id: doi:10.1016/j.cels.2017.09.004
+  title: A Community Challenge for Inferring Genetic Predictors of Gene Essentialities
+    through Analysis of a Functional Screen of Cancer Cell Lines
+  authors:
+  - "Mehmet G\xF6nen"
+  - Barbara A. Weir
+  - Glenn S. Cowley
+  - Francisca Vazquez
+  - Yuanfang Guan
+  - Alok Jaiswal
+  - Masayuki Karasuyama
+  - Vladislav Uzunangelov
+  - Tao Wang
+  - Aviad Tsherniak
+  - Sara Howell
+  - Daniel Marbach
+  - Bruce Hoff
+  - Thea C. Norman
+  - Antti Airola
+  - Adrian Bivol
+  - Kerstin Bunte
+  - Daniel Carlin
+  - Sahil Chopra
+  - Alden Deran
+  - Kyle Ellrott
+  - Peddinti Gopalacharyulu
+  - Kiley Graim
+  - Samuel Kaski
+  - Suleiman A. Khan
+  - Yulia Newton
+  - Sam Ng
+  - Tapio Pahikkala
+  - Evan Paull
+  - Artem Sokolov
+  - Hao Tang
+  - Jing Tang
+  - Krister Wennerberg
+  - Yang Xie
+  - Xiaowei Zhan
+  - Fan Zhu
+  - Tero Aittokallio
+  - Hiroshi Mamitsuka
+  - "Joshua\_M. Stuart"
+  - "Jesse\_S. Boehm"
+  - "David\_E. Root"
+  - Guanghua Xiao
+  - Gustavo Stolovitzky
+  - "William\_C. Hahn"
+  - "Adam\_A. Margolin"
+  - Bahman Afsari
+  - Antti Airola
+  - Tero Aittokallio
+  - Adrian Bivol
+  - Jesse S. Boehm
+  - Kerstin Bunte
+  - Daniel Carlin
+  - Yu-Chuan Chang
+  - Tenghui Chen
+  - Zechen Chong
+  - Sahil Chopra
+  - Glenn S. Cowley
+  - Alden Deran
+  - Kyle Ellrott
+  - Haitham Elmarakeby
+  - Elana J. Fertig
+  - "Emanuel Gon\xE7alves"
+  - "Mehmet G\xF6nen"
+  - Pinghua Gong
+  - Peddinti Gopalacharyulu
+  - Kiley Graim
+  - Yuanfang Guan
+  - Christoph Hafemeister
+  - William C. Hahn
+  - Lenwood Heath
+  - Bruce Hoff
+  - Sara Howell
+  - Alok Jaiswal
+  - Masayuki Karasuyama
+  - Samuel Kaski
+  - "\u0141ukasz K\u0119dziorski"
+  - Suleiman A. Khan
+  - Niraj Khemka
+  - Erh-kan King
+  - Mario Lauria
+  - Mark Liu
+  - Daniel Machado
+  - Hiroshi Mamitsuka
+  - Daniel Marbach
+  - Adam A. Margolin
+  - Mateusz Mazurkiewicz
+  - Michael P. Menden
+  - Szymon Migacz
+  - Yulia Newton
+  - Sam Ng
+  - Zhi Nie
+  - Thea C. Norman
+  - Tapio Pahikkala
+  - Evan Paull
+  - Paurush Praveen
+  - Corrado Priami
+  - Simone Rizzetto
+  - Miguel Rocha
+  - David E. Root
+  - Cameron Rudd
+  - Witold R. Rudnicki
+  - Julio Saez-Rodriguez
+  - Artem Sokolov
+  - Lei Song
+  - Gustavo Stolovitzky
+  - Joshua M. Stuart
+  - Duanchen Sun
+  - Bence Szalai
+  - Hao Tang
+  - Jing Tang
+  - Aviad Tsherniak
+  - Vladislav Uzunangelov
+  - Francisca Vazquez
+  - Tao Wang
+  - Difei Wang
+  - Barbara A. Weir
+  - Krister Wennerberg
+  - Ling-yun Wu
+  - Guanghua Xiao
+  - Yang Xie
+  - Jieping Ye
+  - Yuting Ye
+  - Xiaowei Zhan
+  - Wanding Zhou
+  - Fan Zhu
+  publisher: Cell Systems
+  date: '2017-11-01'
+  link: https://doi.org/gjjc5v
+- id: pmid:28622513
+  title: Comprehensive and Integrative Genomic Characterization of Hepatocellular
+    Carcinoma.
+  authors:
+  - ' '
+  - ' '
+  publisher: Cell
+  date: '2017-06-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28622513
+- id: pmc:PMC5680778
+  title: Comprehensive and Integrative Genomic Characterization of Hepatocellular
+    Carcinoma
+  authors:
+  - ' Cancer Genome Atlas Research Network. Electronic address: wheeler@bcm.edu'
+  - ' Cancer Genome Atlas Research Network'
+  publisher: Cell
+  date: '2017-06-15'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5680778/
+- id: doi:10.1016/j.cell.2017.05.046
+  title: Comprehensive and Integrative Genomic Characterization of Hepatocellular
+    Carcinoma
+  authors:
+  - Adrian Ally
+  - Miruna Balasundaram
+  - Rebecca Carlsen
+  - Eric Chuah
+  - Amanda Clarke
+  - Noreen Dhalla
+  - Robert A. Holt
+  - Steven J.M. Jones
+  - Darlene Lee
+  - Yussanne Ma
+  - Marco A. Marra
+  - Michael Mayo
+  - Richard A. Moore
+  - Andrew J. Mungall
+  - Jacqueline E. Schein
+  - Payal Sipahimalani
+  - Angela Tam
+  - Nina Thiessen
+  - Dorothy Cheung
+  - Tina Wong
+  - Denise Brooks
+  - A. Gordon Robertson
+  - Reanne Bowlby
+  - Karen Mungall
+  - Sara Sadeghi
+  - Liu Xi
+  - Kyle Covington
+  - Eve Shinbrot
+  - David A. Wheeler
+  - Richard A. Gibbs
+  - Lawrence A. Donehower
+  - Linghua Wang
+  - Jay Bowen
+  - Julie M. Gastier-Foster
+  - Mark Gerken
+  - Carmen Helsel
+  - Kristen M. Leraas
+  - Tara M. Lichtenberg
+  - Nilsa C. Ramirez
+  - Lisa Wise
+  - Erik Zmuda
+  - Stacey B. Gabriel
+  - Matthew Meyerson
+  - Carrie Cibulskis
+  - Bradley A. Murray
+  - Juliann Shih
+  - Rameen Beroukhim
+  - Andrew D. Cherniack
+  - Steven E. Schumacher
+  - Gordon Saksena
+  - Chandra Sekhar Pedamallu
+  - Lynda Chin
+  - Gad Getz
+  - Michael Noble
+  - Hailei Zhang
+  - David Heiman
+  - Juok Cho
+  - Nils Gehlenborg
+  - Gordon Saksena
+  - Douglas Voet
+  - Pei Lin
+  - Scott Frazer
+  - Timothy Defreitas
+  - Sam Meier
+  - Michael Lawrence
+  - Jaegil Kim
+  - Chad J. Creighton
+  - Donna Muzny
+  - HarshaVardhan Doddapaneni
+  - Jianhong Hu
+  - Min Wang
+  - Donna Morton
+  - Viktoriya Korchina
+  - Yi Han
+  - Huyen Dinh
+  - Lora Lewis
+  - Michelle Bellair
+  - Xiuping Liu
+  - Jireh Santibanez
+  - Robert Glenn
+  - Sandra Lee
+  - Walker Hale
+  - Joel S. Parker
+  - Matthew D. Wilkerson
+  - D. Neil Hayes
+  - Sheila M. Reynolds
+  - Ilya Shmulevich
+  - Wei Zhang
+  - Yuexin Liu
+  - Lisa Iype
+  - Hala Makhlouf
+  - Michael S. Torbenson
+  - Sanjay Kakar
+  - Matthew M. Yeh
+  - Dhanpat Jain
+  - David E. Kleiner
+  - Dhanpat Jain
+  - Renumathy Dhanasekaran
+  - Hashem B. El-Serag
+  - Sun Young Yim
+  - John N. Weinstein
+  - Lopa Mishra
+  - Jianping Zhang
+  - Rehan Akbani
+  - Shiyun Ling
+  - Zhenlin Ju
+  - Xiaoping Su
+  - Apurva M. Hegde
+  - Gordon B. Mills
+  - Yiling Lu
+  - Jian Chen
+  - Ju-Seog Lee
+  - Bo Hwa Sohn
+  - Jae Jun Shim
+  - Pan Tong
+  - Hiroyuki Aburatani
+  - Shogo Yamamoto
+  - Kenji Tatsuno
+  - Wei Li
+  - Zheng Xia
+  - Nicolas Stransky
+  - Eric Seiser
+  - Federico Innocenti
+  - Jianjiong Gao
+  - Ritika Kundra
+  - Hongxin Zhang
+  - Zachary Heins
+  - Angelica Ochoa
+  - Chris Sander
+  - Marc Ladanyi
+  - Ronglai Shen
+  - Arshi Arora
+  - Francisco Sanchez-Vega
+  - Nikolaus Schultz
+  - Katayoon Kasaian
+  - Amie Radenbaugh
+  - Karl-Dimiter Bissig
+  - David D. Moore
+  - Yasushi Totoki
+  - Hiromi Nakamura
+  - Tatsuhiro Shibata
+  - Christina Yau
+  - Kiley Graim
+  - Josh Stuart
+  - David Haussler
+  - Betty L. Slagle
+  - Akinyemi I. Ojesina
+  - Panagiotis Katsonis
+  - Amanda Koire
+  - Olivier Lichtarge
+  - Teng-Kuei Hsu
+  - Martin L. Ferguson
+  - John A. Demchok
+  - Ina Felau
+  - Margi Sheth
+  - Roy Tarnuzzer
+  - Zhining Wang
+  - Liming Yang
+  - Jean C. Zenklusen
+  - Jiashan Zhang
+  - Carolyn M. Hutter
+  - Heidi J. Sofia
+  - Roel G.W. Verhaak
+  - Siyuan Zheng
+  - Frederick Lang
+  - Sudha Chudamani
+  - Jia Liu
+  - Laxmi Lolla
+  - Ye Wu
+  - Rashi Naresh
+  - Todd Pihl
+  - Charlie Sun
+  - Yunhu Wan
+  - Christopher Benz
+  - Amy H. Perou
+  - Leigh B. Thorne
+  - Lori Boice
+  - Mei Huang
+  - W. Kimryn Rathmell
+  - Houtan Noushmehr
+  - Fabiano Pinto Saggioro
+  - Daniela Pretti da Cunha Tirapelli
+  - Carlos Gilberto Carlotti Junior
+  - Enio David Mente
+  - Orlando de Castro Silva
+  - Felipe Amstalden Trevisan
+  - Koo Jeong Kang
+  - Keun Soo Ahn
+  - Nasra H. Giama
+  - Catherine D. Moser
+  - Thomas J. Giordano
+  - Michelle Vinco
+  - Theodore H. Welling
+  - Daniel Crain
+  - Erin Curley
+  - Johanna Gardner
+  - David Mallery
+  - Scott Morris
+  - Joseph Paulauskis
+  - Robert Penny
+  - Candace Shelton
+  - Troy Shelton
+  - Robin Kelley
+  - Joong-Won Park
+  - Vishal S. Chandan
+  - Lewis R. Roberts
+  - Oliver F. Bathe
+  - Curt H. Hagedorn
+  - J. Todd Auman
+  - Daniel R. O'Brien
+  - Jean-Pierre A. Kocher
+  - Corbin D. Jones
+  - Piotr A. Mieczkowski
+  - Charles M. Perou
+  - Tara Skelly
+  - Donghui Tan
+  - Umadevi Veluvolu
+  - Saianand Balu
+  - Tom Bodenheimer
+  - Alan P. Hoyle
+  - Stuart R. Jefferys
+  - Shaowu Meng
+  - Lisle E. Mose
+  - Yan Shi
+  - Janae V. Simons
+  - Matthew G. Soloway
+  - Jeffrey Roach
+  - Katherine A. Hoadley
+  - Stephen B. Baylin
+  - Hui Shen
+  - Toshinori Hinoue
+  - Moiz S. Bootwalla
+  - David J. Van Den Berg
+  - Daniel J. Weisenberger
+  - Phillip H. Lai
+  - Andrea Holbrook
+  - Mario Berrios
+  - Peter W. Laird
+  publisher: Cell
+  date: '2017-06-01'
+  link: https://doi.org/gf78jc
+- id: pmid:28359308
+  title: Revealing cancer subtypes with higher-order correlations applied to imaging
+    and omics data.
+  authors:
+  - Kiley Graim
+  - Tiffany Ting Liu
+  - Achal S Achrol
+  - Evan O Paull
+  - Yulia Newton
+  - Steven D Chang
+  - Griffith R Harsh
+  - Sergio P Cordero
+  - Daniel L Rubin
+  - Joshua M Stuart
+  publisher: BMC medical genomics
+  date: '2017-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28359308
+- id: doi:10.1186/s12920-017-0256-3
+  title: Revealing cancer subtypes with higher-order correlations applied to imaging
+    and omics data
+  authors:
+  - Kiley Graim
+  - Tiffany Ting Liu
+  - Achal S. Achrol
+  - Evan O. Paull
+  - Yulia Newton
+  - Steven D. Chang
+  - Griffith R. Harsh
+  - Sergio P. Cordero
+  - Daniel L. Rubin
+  - Joshua M. Stuart
+  publisher: BMC Medical Genomics
+  date: '2017-03-31'
+  link: https://doi.org/gkf5bz
+- id: pmc:PMC5374737
+  title: Revealing cancer subtypes with higher-order correlations applied to imaging
+    and omics data
+  authors:
+  - Kiley Graim
+  - Tiffany Ting Liu
+  - Achal S Achrol
+  - Evan O Paull
+  - Yulia Newton
+  - Steven D Chang
+  - Griffith R Harsh
+  - Sergio P Cordero
+  - Daniel L Rubin
+  - Joshua M Stuart
+  publisher: BMC medical genomics
+  date: '2017-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5374737/
+- id: pmid:28162975
+  title: Comprehensive Molecular Characterization of Pheochromocytoma and Paraganglioma.
+  authors:
+  - Lauren Fishbein
+  - Ignaty Leshchiner
+  - Vonn Walter
+  - Ludmila Danilova
+  - A Gordon Robertson
+  - Amy R Johnson
+  - Tara M Lichtenberg
+  - Bradley A Murray
+  - Hans K Ghayee
+  - Tobias Else
+  - Shiyun Ling
+  - Stuart R Jefferys
+  - Aguirre A de Cubas
+  - Brandon Wenz
+  - Esther Korpershoek
+  - Antonio L Amelio
+  - Liza Makowski
+  - W Kimryn Rathmell
+  - Anne-Paule Gimenez-Roqueplo
+  - Thomas J Giordano
+  - Sylvia L Asa
+  - Arthur S Tischler
+  - ' '
+  - Karel Pacak
+  - Katherine L Nathanson
+  - Matthew D Wilkerson
+  publisher: Cancer cell
+  date: '2017-02-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28162975
+- id: pmc:PMC5643159
+  title: Comprehensive Molecular Characterization of Pheochromocytoma and Paraganglioma
+  authors:
+  - Lauren Fishbein
+  - Ignaty Leshchiner
+  - Vonn Walter
+  - Ludmila Danilova
+  - A Gordon Robertson
+  - Amy R Johnson
+  - Tara M Lichtenberg
+  - Bradley A Murray
+  - Hans K Ghayee
+  - Tobias Else
+  - Shiyun Ling
+  - Stuart R Jefferys
+  - Aguirre A de Cubas
+  - Brandon Wenz
+  - Esther Korpershoek
+  - Antonio L Amelio
+  - Liza Makowski
+  - W Kimryn Rathmell
+  - Anne-Paule Gimenez-Roqueplo
+  - Thomas J Giordano
+  - Sylvia L Asa
+  - Arthur S Tischler
+  - ' Cancer Genome Atlas Research Network'
+  - Karel Pacak
+  - Katherine L Nathanson
+  - Matthew D Wilkerson
+  publisher: Cancer cell
+  date: '2017-02-13'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5643159/
+- id: doi:10.1016/j.ccell.2017.01.001
+  title: Comprehensive Molecular Characterization of Pheochromocytoma and Paraganglioma
+  authors:
+  - Lauren Fishbein
+  - Ignaty Leshchiner
+  - Vonn Walter
+  - Ludmila Danilova
+  - A. Gordon Robertson
+  - Amy R. Johnson
+  - Tara M. Lichtenberg
+  - Bradley A. Murray
+  - Hans K. Ghayee
+  - Tobias Else
+  - Shiyun Ling
+  - Stuart R. Jefferys
+  - Aguirre A. de Cubas
+  - Brandon Wenz
+  - Esther Korpershoek
+  - Antonio L. Amelio
+  - Liza Makowski
+  - W. Kimryn Rathmell
+  - Anne-Paule Gimenez-Roqueplo
+  - Thomas J. Giordano
+  - Sylvia L. Asa
+  - Arthur S. Tischler
+  - Karel Pacak
+  - Katherine L. Nathanson
+  - Matthew D. Wilkerson
+  - Rehan Akbani
+  - Adrian Ally
+  - Laurence Amar
+  - Antonio L. Amelio
+  - Harindra Arachchi
+  - Sylvia L. Asa
+  - Richard J. Auchus
+  - J. Todd Auman
+  - Robert Baertsch
+  - Miruna Balasundaram
+  - Saianand Balu
+  - Detlef K. Bartsch
+  - Eric Baudin
+  - Thomas Bauer
+  - Allison Beaver
+  - Christopher Benz
+  - Rameen Beroukhim
+  - Felix Beuschlein
+  - Tom Bodenheimer
+  - Lori Boice
+  - Jay Bowen
+  - Reanne Bowlby
+  - Denise Brooks
+  - Rebecca Carlsen
+  - Suzie Carter
+  - Clarissa A. Cassol
+  - Andrew D. Cherniack
+  - Lynda Chin
+  - Juok Cho
+  - Eric Chuah
+  - Sudha Chudamani
+  - Leslie Cope
+  - Daniel Crain
+  - Erin Curley
+  - Ludmila Danilova
+  - Aguirre A. de Cubas
+  - Ronald R. de Krijger
+  - John A. Demchok
+  - Timo Deutschbein
+  - Noreen Dhalla
+  - David Dimmock
+  - Winand N.M. Dinjens
+  - Tobias Else
+  - Charis Eng
+  - Jennifer Eschbacher
+  - Martin Fassnacht
+  - Ina Felau
+  - Michael Feldman
+  - Martin L. Ferguson
+  - Ian Fiddes
+  - Lauren Fishbein
+  - Scott Frazer
+  - Stacey B. Gabriel
+  - Johanna Gardner
+  - Julie M. Gastier-Foster
+  - Nils Gehlenborg
+  - Mark Gerken
+  - Gad Getz
+  - Jennifer Geurts
+  - Hans K. Ghayee
+  - Anne-Paule Gimenez-Roqueplo
+  - Thomas J. Giordano
+  - Mary Goldman
+  - Kiley Graim
+  - Manaswi Gupta
+  - David Haan
+  - Stefanie Hahner
+  - Constanze Hantel
+  - David Haussler
+  - D. Neil Hayes
+  - David I. Heiman
+  - Katherine A. Hoadley
+  - Robert A. Holt
+  - Alan P. Hoyle
+  - Mei Huang
+  - Bryan Hunt
+  - Carolyn M. Hutter
+  - Stuart R. Jefferys
+  - Amy R. Johnson
+  - Steven J.M. Jones
+  - Corbin D. Jones
+  - Katayoon Kasaian
+  - Electron Kebebew
+  - Jaegil Kim
+  - Patrick Kimes
+  - Theo Knijnenburg
+  - Esther Korpershoek
+  - Eric Lander
+  - Michael S. Lawrence
+  - Ronald Lechan
+  - Darlene Lee
+  - Kristen M. Leraas
+  - Antonio Lerario
+  - Ignaty Leshchiner
+  - Tara M. Lichtenberg
+  - Pei Lin
+  - Shiyun Ling
+  - Jia Liu
+  - Virginia A. LiVolsi
+  - Laxmi Lolla
+  - Yair Lotan
+  - Yiling Lu
+  - Yussanne Ma
+  - Nicole Maison
+  - Liza Makowski
+  - David Mallery
+  - Massimo Mannelli
+  - Jessica Marquard
+  - Marco A. Marra
+  - Thomas Matthew
+  - Michael Mayo
+  - "Tchao M\xE9atchi"
+  - Shaowu Meng
+  - Maria J. Merino
+  - Ozgur Mete
+  - Matthew Meyerson
+  - Piotr A. Mieczkowski
+  - Gordon B. Mills
+  - Richard A. Moore
+  - Olena Morozova
+  - Scott Morris
+  - Lisle E. Mose
+  - Andrew J. Mungall
+  - Bradley A. Murray
+  - Rashi Naresh
+  - Katherine L. Nathanson
+  - Yulia Newton
+  - Sam Ng
+  - Ying Ni
+  - Michael S. Noble
+  - Fiemu Nwariaku
+  - Karel Pacak
+  - Joel S. Parker
+  - Evan Paul
+  - Robert Penny
+  - Charles M. Perou
+  - Amy H. Perou
+  - Todd Pihl
+  - James Powers
+  - Jennifer Rabaglia
+  - Amie Radenbaugh
+  - Nilsa C. Ramirez
+  - Arjun Rao
+  - W. Kimryn Rathmell
+  - Anna Riester
+  - Jeffrey Roach
+  - A. Gordon Robertson
+  - Sara Sadeghi
+  - Gordon Saksena
+  - Sofie Salama
+  - Charles Saller
+  - George Sandusky
+  - Silviu Sbiera
+  - Jacqueline E. Schein
+  - Steven E. Schumacher
+  - Candace Shelton
+  - Troy Shelton
+  - Margi Sheth
+  - Yan Shi
+  - Juliann Shih
+  - Ilya Shmulevich
+  - Janae V. Simons
+  - Payal Sipahimalani
+  - Tara Skelly
+  - Heidi J. Sofia
+  - Artem Sokolov
+  - Matthew G. Soloway
+  - Carrie Sougnez
+  - Josh Stuart
+  - Charlie Sun
+  - Teresa Swatloski
+  - Angela Tam
+  - Donghui Tan
+  - Roy Tarnuzzer
+  - Katherine Tarvin
+  - Nina Thiessen
+  - Leigh B. Thorne
+  - Henri J. Timmers
+  - Arthur S. Tischler
+  - Kane Tse
+  - Vlado Uzunangelov
+  - Anouk van Berkel
+  - Umadevi Veluvolu
+  - Ales Vicha
+  - Doug Voet
+  - Jens Waldmann
+  - Vonn Walter
+  - Yunhu Wan
+  - Zhining Wang
+  - Tracy S. Wang
+  - Joellen Weaver
+  - John N. Weinstein
+  - Dirk Weismann
+  - Brandon Wenz
+  - Matthew D. Wilkerson
+  - Lisa Wise
+  - Tina Wong
+  - Christopher Wong
+  - Ye Wu
+  - Liming Yang
+  - Tomas Zelinka
+  - Jean C. Zenklusen
+  - Jiashan (Julia) Zhang
+  - Wei Zhang
+  - Jingchun Zhu
+  - "Franck Zinzindohou\xE9"
+  - Erik Zmuda
+  publisher: Cancer Cell
+  date: '2017-02-01'
+  link: https://doi.org/f9vcmf
+- id: doi:10.1038/nmeth.3773
+  title: 'Inferring causal molecular networks: empirical assessment through a community-based
+    effort'
+  authors:
+  - Steven M Hill
+  - Laura M Heiser
+  - Thomas Cokelaer
+  - Michael Unger
+  - Nicole K Nesser
+  - Daniel E Carlin
+  - Yang Zhang
+  - Artem Sokolov
+  - Evan O Paull
+  - Chris K Wong
+  - Kiley Graim
+  - Adrian Bivol
+  - Haizhou Wang
+  - Fan Zhu
+  - Bahman Afsari
+  - Ludmila V Danilova
+  - Alexander V Favorov
+  - Wai Shing Lee
+  - Dane Taylor
+  - Chenyue W Hu
+  - Byron L Long
+  - David P Noren
+  - Alexander J Bisberg
+  - Gordon B Mills
+  - Joe W Gray
+  - Michael Kellen
+  - Thea Norman
+  - Stephen Friend
+  - Amina A Qutub
+  - Elana J Fertig
+  - Yuanfang Guan
+  - Mingzhou Song
+  - Joshua M Stuart
+  - Paul T Spellman
+  - Heinz Koeppl
+  - Gustavo Stolovitzky
+  - Julio Saez-Rodriguez
+  - Sach Mukherjee
+  - ' '
+  publisher: Nature Methods
+  date: '2016-02-22'
+  link: https://doi.org/f3t7t4
+- id: pmid:26901648
+  title: 'Inferring causal molecular networks: empirical assessment through a community-based
+    effort.'
+  authors:
+  - Steven M Hill
+  - Laura M Heiser
+  - Thomas Cokelaer
+  - Michael Unger
+  - Nicole K Nesser
+  - Daniel E Carlin
+  - Yang Zhang
+  - Artem Sokolov
+  - Evan O Paull
+  - Chris K Wong
+  - Kiley Graim
+  - Adrian Bivol
+  - Haizhou Wang
+  - Fan Zhu
+  - Bahman Afsari
+  - Ludmila V Danilova
+  - Alexander V Favorov
+  - Wai Shing Lee
+  - Dane Taylor
+  - Chenyue W Hu
+  - Byron L Long
+  - David P Noren
+  - Alexander J Bisberg
+  - ' '
+  - Gordon B Mills
+  - Joe W Gray
+  - Michael Kellen
+  - Thea Norman
+  - Stephen Friend
+  - Amina A Qutub
+  - Elana J Fertig
+  - Yuanfang Guan
+  - Mingzhou Song
+  - Joshua M Stuart
+  - Paul T Spellman
+  - Heinz Koeppl
+  - Gustavo Stolovitzky
+  - Julio Saez-Rodriguez
+  - Sach Mukherjee
+  publisher: Nature methods
+  date: '2016-02-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26901648
+- id: doi:10.1101/gr.256388.119
+  title: Modeling molecular development of breast cancer in canine mammary tumors
+  authors:
+  - Kiley Graim
+  - Dmitriy Gorenshteyn
+  - David G. Robinson
+  - Nicholas J. Carriero
+  - James A. Cahill
+  - Rumela Chakrabarti
+  - Michael H. Goldschmidt
+  - Amy C. Durham
+  - Julien Funk
+  - John D. Storey
+  - Vessela N. Kristensen
+  - Chandra L. Theesfeld
+  - Karin U. Sorenmo
+  - Olga G. Troyanskaya
+  publisher: Genome Research
+  date: '2021-02-01'
+  link: https://doi.org/gkf5bn
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
@@ -32,7 +1311,31 @@
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-- *id001
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2015-11-05'
+  link: https://doi.org/c7np
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  tags:
+  - TCGA
+  - prostate cancer
+  repo: greenelab/meta-review
+  extra-links:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
