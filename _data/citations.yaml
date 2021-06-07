@@ -1,6 +1,7 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1371/journal.pcbi.1007128
+- &id001
+  id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
   - Daniel S. Himmelstein
@@ -14,7 +15,7 @@
   date: '2015-11-05'
   link: https://doi.org/c7np
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867415013392-fx1.jpg
-  tags: &id001
+  tags:
   - TCGA
   - prostate cancer
 - id: doi:10.1016/j.csbj.2020.05.017
@@ -31,21 +32,7 @@
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2015-11-05'
-  link: https://doi.org/c7np
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867415013392-fx1.jpg
-  tags: *id001
+- *id001
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
