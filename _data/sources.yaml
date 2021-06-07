@@ -1,4 +1,33 @@
 - id: doi:10.1101/gr.256388.119
+- id: pmid:30864317
+- id: pmc:PMC6417802
+- id: pmid:30322867
+- id: doi:10.1158/2159-8290.cd-18-0804
+- id: pmid:29471451
+- id: doi:10.1093/molbev/msy018
+- id: pmid:29211761
+- id: pmc:PMC5718405
+- id: doi:10.1371/journal.pone.0170340
+- id: pmid:29092953
+- id: doi:10.1158/0008-5472.CAN-17-0580
+- id: pmc:PMC5751940
+- id: pmc:PMC5814247
+- id: pmid:28988802
+- id: doi:10.1016/j.cels.2017.09.004
+- id: pmid:28622513
+- id: pmc:PMC5680778
+- id: doi:10.1016/j.cell.2017.05.046
+- id: pmid:28359308
+- id: doi:10.1186/s12920-017-0256-3
+- id: pmc:PMC5374737
+- id: pmid:28162975
+- id: pmc:PMC5643159
+- id: doi:10.1016/j.ccell.2017.01.001
+- id: doi:10.1038/nmeth.3773
+- id: pmid:26901648
+
+%
+- id: doi:10.1101/gr.256388.119
   image: https://genome.cshlp.org/content/31/2/337/F1.large.jpg
   date: 2021-2-5
   tags:
