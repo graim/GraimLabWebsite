@@ -150,6 +150,7 @@
   image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0170340/1/pone.0170340.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210607%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210607T153302Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=165c9d0ca10af63a393c8e7f435831d8f519aa40c783881180e279c112a168534d8755649d4ab7a8a0a6c3844ca5db3bb732dc54969ffc4040856d856feacf9d1dd2815975ba67bec73e6024e112b536e61392143c2b85322446d5105631bb7290dcc0ca4408c128ec9859bbe58090bfdc1ce3ae562b24a0b6f04c81f9dcc392df28e302b373262624f06e8d96923925da89bbb1eb74ed1048cd12c42ed58a0ad26605f9079caa36891b01f7b204e5278c171f029f458bdeddbdcba925394294ce5b9610fa91b7395044468baf614c368f212aa5a1ca5ac66cef235b4305bebeaf7cc1b4eac145a2e43e44d95f79443b397aff156daf49253b73d97cb6446886
   tags:
   - tools
+  - competition
 - id: pmid:29092953
   title: 'TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive
     Portal.'
