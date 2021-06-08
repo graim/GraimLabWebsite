@@ -7,25 +7,16 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the Computer and Information Science and Engineering Department at the University of Florida.
+We are located on the 5th floor of the CSE building.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="kgraim@ufl.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
-  style="button"
-%}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
+  link="kgraim@ufl.edu"
   style="button"
 %}
 {%
@@ -34,7 +25,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Department+of+Computer+and+Information+Science+and+Engineering/@29.6520985,-82.354201,15.23z/data=!4m5!3m4!1s0x0:0xd21b17bc0529867e!8m2!3d29.6483268!4d-82.3440276"
   style="button"
 %}
 {:.center}
