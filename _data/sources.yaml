@@ -1,5 +1,5 @@
 - id: doi:doi.org/10.1101/gr.256388.119
-  image: http://freya.flatironinstitute.org/Hand-Print-and-Paw-Print-Decal.png
+  image: freya.flatironinstitute.org/Hand-Print-and-Paw-Print-Decal.png
   tags:
     - comparative genomics
   repo: https://github.com/flatironinstitute/FREYA
