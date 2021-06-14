@@ -4,8 +4,9 @@
 title: Graim Lab
 description: A computational genomics lab at the University of Florida CISE department.
 logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+header: images/GraimLab_Background_Genomes.png
+footer: images/GraimLab_Background_Genomes.png
+#footer: images/background.jpg
 baseurl: /lab-website-template
 
 # site social media and other links
