@@ -1,8 +1,8 @@
-- name: Cool Dataset
+- name: Canine Mammary Tumor Dataset
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136197
+  description: RNA-seq data of the 89 canine mammary samples from Graim et al 2021.
   repo: greenelab/lab-website-template
 
 - name: Cool Package
