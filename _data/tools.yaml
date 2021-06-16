@@ -1,5 +1,5 @@
 - name: Canine Mammary Tumor Dataset
-  group: featured
+  group: more
   image: images/photo.jpg
   link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136197
   description: RNA-seq data of the 89 canine mammary samples from Graim et al 2021.
@@ -7,13 +7,13 @@
 
 - name: FREYA Pipeline
   group: featured
-  image: http://freya.flatironinstitute.org/Hand-Print-and-Paw-Print-Decal.png
+  image: images/FREYA_PEPs.png
   link: http://freya.flatironinstitute.org/
   description: The FREYA analytic framework streamlines cross-species tumor analyses and provides a comprehensive suite of tools that encompass conventional human analyses and new dog-centric approaches, seamlessly integrating the two. 
 
 - name: PLATYPUS
-  group: more
-  image: images/photo.jpg
+  group: featured
+  image: images/PLATYPUS_Model.png
   link: https://github.com/graim/PLATYPUS
   description: A semi-supervised multi-view machine-learning framework that integrates multiple biological priors and multiple data sources with mismatched samples.
 
