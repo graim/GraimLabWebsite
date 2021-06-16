@@ -48,7 +48,7 @@ USA
 {% capture col2 %}
 {%
   include figure.html
-  image="2020-02-27_Century_Tower_L9A1088 copy.jpg"
+  image="images/UF_CenturyTower.jpeg"
   caption="The Department of Computer & Information Science & Engineering"
 %}
 {% endcapture %}
