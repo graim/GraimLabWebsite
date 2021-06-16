@@ -42,14 +42,14 @@ USA
 {%
   include figure.html
   image="images/UF_Campus_FriesSculpture.jpeg"
-  caption="University of Florida"
+  caption="CISE Department"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/UF_CenturyTower.jpeg"
-  caption="The Department of Computer & Information Science & Engineering"
+  caption="University of Florida"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
