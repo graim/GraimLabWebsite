@@ -33,24 +33,23 @@ We are located on the 5th floor of the CSE building.
 {% include section.html %}
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
-
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+432 Newell Dr 
+Gainesville, FL 32611
+USA
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/2021-03-04_Campus_Photos_8.jpg"
+  caption="University of Florida"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="2020-02-27_Century_Tower_L9A1088 copy.jpg"
+  caption="The Department of Computer & Information Science & Engineering"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
