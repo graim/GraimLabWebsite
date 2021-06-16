@@ -41,7 +41,7 @@ USA
 {% capture col1 %}
 {%
   include figure.html
-  image="images/2021-03-04_Campus_Photos_8.jpg"
+  image="images/UF_Campus_FriesSculpture.jpeg"
   caption="University of Florida"
 %}
 {% endcapture %}
