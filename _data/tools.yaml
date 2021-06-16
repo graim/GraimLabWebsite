@@ -11,23 +11,14 @@
   link: http://freya.flatironinstitute.org/
   description: The FREYA analytic framework streamlines cross-species tumor analyses and provides a comprehensive suite of tools that encompass conventional human analyses and new dog-centric approaches, seamlessly integrating the two. 
 
-- name: Cool Tutorial
+- name: PLATYPUS
   group: more
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/graim/PLATYPUS
+  description: A semi-supervised multi-view machine-learning framework that integrates multiple biological priors and multiple data sources with mismatched samples.
 
-- name: Cool Web App
+- name: HOCUS
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- name: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12920-017-0256-3/MediaObjects/12920_2017_256_Fig1_HTML.gif?as=webp
+  link: https://github.com/graim/HOCUS
+  description: A unified analytical framework for patient stratification that uses a community detection technique to extract subtypes from sparse patient measurements. 
