@@ -3,17 +3,7 @@ title: Home
 ---
 
 # Graim's Genomics
-The Graim lab builds tools for comparative functional genomics analysis of human disease. We combine data from humans and many other animals to understand mechanisms driving human disease, with an emphasis on cancer.
-
-  
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
+The Graim lab builds tools for comparative functional genomics analysis of human disease. We build machine learning tools that combine data from humans and many other animals to understand mechanisms driving human disease, with an emphasis on cancer. 
 
 {:.center}
 
@@ -46,7 +36,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[See our tools &nbsp;→](resources)
+[See our tools &nbsp;→](tools)
 {:.center}
 {% endcapture %}
 
