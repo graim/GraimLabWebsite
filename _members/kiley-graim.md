@@ -1,6 +1,6 @@
 ---
 name: Kiley Graim
-image: images/member.jpg
+image: images/IMG_2236-1-1800.jpg
 description: PI
 role: pi
 aliases:
