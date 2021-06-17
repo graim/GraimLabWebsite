@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-The Graim lab has PhD students and undergraduate researchers. 
-We plan to recruit more PhD students and staff in the next few years.
+As the Graim lab grows, we plan to recruit PhD students, undergraduate researchers.
+Currently, we have PhD students and undergraduate researchers. 
 Our lab is collaborative and we have several ongoing collaborations with researchers at UF and other universities.
 
 {% include section.html %}
@@ -36,7 +36,7 @@ Our lab is collaborative and we have several ongoing collaborations with researc
 {% include section.html background="images/banner.jpg" dark=true%}
 
 The Graim Lab has no expectation that students, staff, or faculty work nights or weekends. We expect everyone to respect other's choices of their work hours.
-This means that you can send an email late Saturday night but do not expect a response until normal working hours. Remember that the PhD is a marathon, not a race.
+This means that you can send an email late Saturday night but do not expect a response until normal working hours. Remember that the PhD is a marathon, not a race. Be kind to yourself and your labmates, and do good science.
 
 {%
   include link.html
