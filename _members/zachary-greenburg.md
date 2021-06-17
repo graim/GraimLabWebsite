@@ -1,6 +1,6 @@
 ---
 name: Zachary F Greenberg
-image: images/member.jpg
+image: images/IMG_2236-1-1800.jpg
 description: PhD Student
 role: phd
 group: alum
