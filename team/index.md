@@ -36,14 +36,14 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Graim Lab has no expectation that students, staff, or faculty work nights or weekends. We expect everyone to respect other's choices of their work hours.
+This means that you can send an email late Saturday night but do not expect a response until normal working hours. Remember that the PhD is a marathon, not a race.
 
 {%
   include link.html
   icon="fas fa-hands-helping"
   text="Join the Team"
-  link="join"
+  link="contact"
   style="button"
 %}
 {:.center}
@@ -54,7 +54,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 Our work is made possible by funding from several organizations.
 {:.center}
-
+<!--
 {%
   include gallery.html
   style="square"
@@ -83,3 +83,4 @@ Our work is made possible by funding from several organizations.
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
+-->
