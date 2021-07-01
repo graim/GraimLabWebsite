@@ -53,3 +53,28 @@ USA
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
+
+
+
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/UF_Campus_FriesSculpture.jpeg"
+  caption="CISE Department"
+%}
+{% endcapture %}
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/UF_CenturyTower.jpeg"
+  caption="University of Florida"
+%}
+{% endcapture %}
+{% capture col3 %}
+{%
+  include figure.html
+  image="images/UF_CenturyTower.jpeg"
+  caption="University of Florida"
+%}
+{% endcapture %}
+{% include three-col.html col1=col1 col2=col2 col3=col3 %}
