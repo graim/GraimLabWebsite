@@ -35,10 +35,10 @@ Our lab is collaborative and we have several ongoing collaborations with researc
 
 {% include section.html %}
 
-## Previous Members
+## Alumni
 
-Ana Ausek - undergraduate researcher (summer 2021)
-Soumya Gottipati - undergraduate researcher (fall 2020 - summer 2021)
+- Ana Ausek - undergraduate researcher (summer 2021)
+- Soumya Gottipati - undergraduate researcher (fall 2020 - summer 2021)
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
