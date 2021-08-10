@@ -33,6 +33,13 @@ Our lab is collaborative and we have several ongoing collaborations with researc
 %}
 {:.center}
 
+{% include section.html %}
+
+## Previous Members
+
+Ana Ausek - undergraduate researcher (summer 2021)
+Soumya Gottipati - undergraduate researcher (fall 2020 - summer 2021)
+
 {% include section.html background="images/banner.jpg" dark=true%}
 
 The Graim Lab has no expectation that students, staff, or faculty work nights or weekends. We expect everyone to respect other's choices of their work hours.
