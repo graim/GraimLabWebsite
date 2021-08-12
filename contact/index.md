@@ -73,7 +73,7 @@ USA
 {% capture col3 %}
 {%
   include figure.html
-  image="images/UF_CenturyTower.jpeg"
+  image="images/GatorGlobe.jpeg"
   caption="University of Florida"
 %}
 {% endcapture %}
