@@ -45,7 +45,7 @@ Knowledge gained through application of our tools identifies effective strategie
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Summer B-8742_small.jpeg"
   link="tools"
   headline="Our Tools"
   text=text
