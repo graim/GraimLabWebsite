@@ -30,7 +30,7 @@ Our comparative oncology approach provides a unique opportunity to harness major
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/GatorGlobe.jpeg"
   link="research"
   headline="Our Research"
   text=text
@@ -45,7 +45,7 @@ Knowledge gained through application of our tools identifies effective strategie
 
 {%
   include feature.html
-  image="images/Summer B-8742_small.jpeg"
+  image="images/GatorGlobe.jpeg"
   link="tools"
   headline="Our Tools"
   text=text
@@ -60,7 +60,7 @@ We are highly collaborative and are currently recruiting PhD students, postdocs,
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/GatorGlobe.jpeg"
   link="team"
   headline="Our Team"
   text=text
