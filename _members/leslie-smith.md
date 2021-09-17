@@ -1,6 +1,6 @@
 ---
 name: Leslie Smith
-image: images/member.jpg
+image: images/Leslie_Smith.JPG
 description: PhD Student
 role: phd
 group: alum
