@@ -1,5 +1,5 @@
 ---
-title: New PhD student
+title: New PhD student - Tina Salehi Torabi
 tags: 
   - state of the lab
   - UF
