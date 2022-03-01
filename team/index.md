@@ -37,10 +37,10 @@ Our lab is collaborative and we have several ongoing collaborations with researc
 
 ## Alumni
 
-- Ana Ausek - undergraduate researcher (summer 2021)
-- Soumya Gottipati - undergraduate researcher (fall 2020 - summer 2021)
 - Adam Opyrchal - undergraduate researcher (fall 2021)
 - Adriel Nittala - undergraduate researcher (fall 2021)
+- Ana Ausek - undergraduate researcher (summer 2021)
+- Soumya Gottipati - undergraduate researcher (fall 2020 - summer 2021)
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
