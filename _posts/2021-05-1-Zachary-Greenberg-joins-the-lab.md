@@ -1,5 +1,5 @@
 ---
-title: New PhD student -- Zachary Greenberg
+title: New PhD student - Zachary Greenberg
 tags: 
   - state of the lab
   - UF
