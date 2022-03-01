@@ -1,7 +1,7 @@
 ---
 title: New PhD student - Zachary Greenberg
 tags: 
-  - state of the lab
+  - team
   - UF
 author: Kiley Graim
 member: kiley-graim
