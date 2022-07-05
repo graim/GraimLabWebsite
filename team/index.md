@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-As the Graim lab grows, we plan to recruit PhD students, undergraduate researchers.
+The Graim lab is currently recruiting PhD students, undergraduate researchers.
 Currently, we have PhD students and undergraduate researchers. 
 Our lab is collaborative and we have several ongoing collaborations with researchers at UF and other universities.
 
@@ -32,6 +32,13 @@ Our lab is collaborative and we have several ongoing collaborations with researc
   filters="role: programmer"
 %}
 {:.center}
+
+{% include section.html %}
+
+## Masters/Undergraduate Researchers
+
+- Ravi Teja V - graduate researcher (summer 2022)
+- Bryan Atkinson - undergraduate researcher (summer 2022)
 
 {% include section.html %}
 
