@@ -29,8 +29,10 @@ Year 2:
 - You should take a vacation.
 
 Year 3:
-- Start registering for the CIS seminar. Do this for 3 semesters.
+- Take and pass the qualifying exam.
 - Finish up any coursework requirements you have not yet completed.
+- Start taking seminar course credits
+- Prepare for your candidacy exams.
 - You should now be spending most of your time on research, not classes. Congratulations!
 
 Year 4 (and beyond):
