@@ -127,6 +127,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/30322867
   tags:
   - TCGA
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6310008/bin/nihms-1509825-f0001.jpg
 - id: pmid:29471451
   title: Genomic Evidence of Widespread Admixture from Polar Bears into Brown Bears
     during the Last Ice Age.
@@ -149,7 +150,7 @@
   publisher: Molecular biology and evolution
   date: '2018-05-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29471451
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/35/5/10.1093_molbev_msy018/1/m_msy018f1.png?Expires=1625810485&Signature=Ad-g02h~9m0T-D5SyNfYuCsy8QNHwlk4uUqaJXXdoZC85S8TeIUp~9x2L13ftGv81W0apawzBtc4J9F7bExFGFj5uTjkRRJPxMHl-gTnbd2PgZH6YwljbIh2w3-w848mqG0c0mVrG62pixF7Gmjy5yQNO7kV-UrDt78V~2Zg2nJH1QjQWNk4kOLEc1ZdDsATB5GlFqDWtG5tQ~V7cxBKwKqaNKGjImR9auhmf80~KpeUUuOE03Q6yUQCZ6gREhN3pgBpfCfPAAv9EeU5bFf~oZXlfV4M5s~2SIROqLVOR23nRENFvD4oOVxuDjo7EjkgEn7iBdaPvfTxIQDZwMJnEQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/06/25/154773/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - comparative genomics
 - id: pmid:29211761
@@ -198,6 +199,7 @@
   extra-links:
   - type: source
     link: https://tumormap.ucsc.edu/
+  image: https://aacrjournals.org/view-large/figure/13373627/e111fig1.jpeg
 - id: pmid:28988802
   title: A Community Challenge for Inferring Genetic Predictors of Gene Essentialities
     through Analysis of a Functional Screen of Cancer Cell Lines.
@@ -253,6 +255,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/28988802
   tags:
   - competition
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5814247/bin/nihms939327f1.jpg
 - id: pmid:28622513
   title: Comprehensive and Integrative Genomic Characterization of Hepatocellular
     Carcinoma.
@@ -282,7 +285,7 @@
   publisher: BMC medical genomics
   date: '2017-03-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28359308
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12920-017-0256-3/MediaObjects/12920_2017_256_Fig1_HTML.gif?as=webp
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6417802/bin/nihms-999775-f0001.jpg
   tags:
   - tools
 - id: pmid:28162975
@@ -319,6 +322,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/28162975
   tags:
   - TCGA
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5643159/bin/nihms849815f3.jpg
 - id: pmid:26901648
   title: 'Inferring causal molecular networks: empirical assessment through a community-based
     effort.'
@@ -387,6 +391,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/26460041
   tags:
   - cancer
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4664352/bin/pnas.1518007112sfig03.jpg
 - id: pmid:26544944
   title: The Molecular Taxonomy of Primary Prostate Cancer.
   authors:
