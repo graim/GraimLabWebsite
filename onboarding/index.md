@@ -11,14 +11,14 @@ nav:
 
 ## PhD Student Timeline and Key Events
 
-Year 1:
+**Year 1:**
 - Take a full course load, working to complete you PhD program guidelines ([CISE guidelines here](https://www.cise.ufl.edu/academics/graduate/phd/)).
 - You must sign up for 9 credits moving forward. To do this, fill your credits with CIS 7979.
 - You are being paid by the _lab_.
 - Form your PhD committee by the end of your first year (this requires signed forms).
 - You should take a vacation.
 
-Year 2:
+**Year 2:**
 - Take a full course load, working to complete you PhD program guidelines ([CISE guidelines here](https://www.cise.ufl.edu/academics/graduate/phd/)).
 - If you are on a teaching assistantship, you will also be (not surprisingly) performing TA duties.
 - Take some time off during winter break.
@@ -28,14 +28,14 @@ Year 2:
 - Schedule and take your qualifying exams.
 - You should take a vacation.
 
-Year 3:
+**Year 3:**
 - Take and pass the qualifying exam.
 - Finish up any coursework requirements you have not yet completed.
 - Start taking seminar course credits
 - Prepare for your candidacy exams.
 - You should now be spending most of your time on research, not classes. Congratulations!
 
-Year 4 (and beyond):
+**Year 4 (and beyond):**
 - Welcome to full-time lab work!
 
 
