@@ -1,5 +1,5 @@
 - name: ExoGAN
-  group: more
+  group: featured
   image: images/GatorGlobe.jpeg
   link: https://github.com/zfg2013/ExoGAN-v1-
   description: ExoGAN designs precision receptor-targeting peptides using quantum chemically predicted features to understand physiochemical interaction dynamics, increasing the efficacy of designed point-target exosomal pharmaceutics.
@@ -18,7 +18,7 @@
   description: The FREYA analytic framework streamlines cross-species tumor analyses and provides a comprehensive suite of tools that encompass conventional human analyses and new dog-centric approaches, seamlessly integrating the two. 
 
 - name: PLATYPUS
-  group: featured
+  group: more
   image: images/PLATYPUS_Model.png
   link: https://github.com/graim/PLATYPUS
   description: A semi-supervised multi-view machine-learning framework that integrates multiple biological priors and multiple data sources with mismatched samples.
