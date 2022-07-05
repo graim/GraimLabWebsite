@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-##PhD Student Timeline and Key Events
+## PhD Student Timeline and Key Events
 
 Year 1:
 - Take a full course load, working to complete you PhD program guidelines ([CISE guidelines here](https://www.cise.ufl.edu/academics/graduate/phd/)).
