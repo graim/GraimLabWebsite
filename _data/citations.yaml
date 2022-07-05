@@ -1,5 +1,25 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:doi.org/10.1038/s41698-022-00271-x
+  title: Drivers of genomic loss of heterozygosity in leiomyosarcoma are distinct
+    from carcinomas
+  authors:
+  - Nathan D. Seligson
+  - Joy Tang
+  - Dexter X. Jin
+  - Monica P. Bennett
+  - Julia A. Elvin
+  - Kiley Graim
+  - John L. Hays
+  - Sherri Z. Millis
+  - Wayne O. Miles
+  - James L. Chen
+  publisher: npj Precision Oncology
+  date: '2022-12-01'
+  link: https://doi.org/gqf4sm
+  image: https://www.nature.com/articles/s41698-022-00271-x/figures/1
+  tags:
+  - rare cancers
 - id: doi:doi.org/10.1101/gr.256388.119
   title: Modeling molecular development of breast cancer in canine mammary tumors
   authors:
