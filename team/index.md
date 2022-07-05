@@ -37,7 +37,7 @@ Our lab is collaborative and we have several ongoing collaborations with researc
 
 ## Masters/Undergraduate Researchers
 
-- Ravi Teja V - graduate researcher (summer 2022)
+- Ravi Teja Veernapu - graduate researcher (summer 2022)
 - Bryan Atkinson - undergraduate researcher (summer 2022)
 
 {% include section.html %}
