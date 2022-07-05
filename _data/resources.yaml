@@ -24,7 +24,7 @@
   
 - name: The Missing Semester of Your CS Education
   group: more
-  image: images/GatorGlobe.jpegg
+  image: images/GatorGlobe.jpeg
   link: https://missing.csail.mit.edu/
   description: Learning the command line, data management, and other important CS skills that you may not have learned yet.
   
