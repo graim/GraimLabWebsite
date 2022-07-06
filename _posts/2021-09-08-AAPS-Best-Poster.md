@@ -2,6 +2,7 @@
 title: Zack wins Best Poster at AAPS
 tags: 
   - conference
+  - awards
 author: Kiley Graim
 member: kiley-graim
 ---
