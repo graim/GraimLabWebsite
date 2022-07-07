@@ -7,9 +7,9 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-The Graim lab is currently recruiting PhD students, undergraduate researchers.
-Currently, we have PhD students and undergraduate researchers. 
-Our lab is collaborative and we have several ongoing collaborations with researchers at UF and other universities.
+The Graim lab is currently recruiting PhD students, undergraduate researchers. PhD students can apply through [CISE](https://www.cise.ufl.edu/academics/graduate/phd/) or the [Genetics and Genomics](http://ufgi.ufl.edu/grad-program/) program at UF.
+ 
+We are a collaborative lab that works closely with researchers at UF and other universities.
 
 {% include section.html %}
 
