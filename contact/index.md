@@ -8,7 +8,6 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the Computer and Information Science and Engineering Department at the University of Florida.
-We are located on the 5th floor of the CSE building.
 
 {%
   include link.html
