@@ -30,8 +30,7 @@ nav:
 
 **Year 3:**
 - Take and pass the qualifying exam.
-- Finish up any coursework requirements you have not yet completed.
-- Start taking seminar course credits
+- Finish up any coursework requirements you have not yet completed (e.g. seminar credits).
 - Prepare for your candidacy exams.
 - You should now be spending most of your time on research, not classes. Congratulations!
 
