@@ -43,7 +43,7 @@ Knowledge gained through application of our tools identifies insights to develop
 
 {%
   include feature.html
-  image="images/IMG-0584.jpg"
+  image="images/IMG-0659.jpg"
   link="tools"
   headline="Our Tools"
   text=text
