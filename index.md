@@ -20,7 +20,7 @@ Our research facilitates learning the biological basis of these deadly diseases 
 # Highlights
 
 {% capture text %}
-Our comparative oncology approach provides a unique opportunity to learn the biological mechanisms driving cancer and other human diseases. 
+We are studying the evolution of cancer across mammalia, designing machine learning models that integrate data from ~250 species to understand how cancer has evolved. Our comparative oncology approach provides a unique opportunity to learn the evolution of biological mechanisms driving cancer and other human diseases. 
 
 [See what we've published &nbsp;→](research)
 {:.center}
@@ -28,7 +28,7 @@ Our comparative oncology approach provides a unique opportunity to learn the bio
 
 {%
   include feature.html
-  image="images/GatorGlobe.jpeg"
+  image="images/IMG-0640.jpg"
   link="research"
   headline="Our Research"
   text=text
@@ -43,14 +43,14 @@ Knowledge gained through application of our tools identifies insights to develop
 
 {%
   include feature.html
-  image="images/GatorGlobe.jpeg"
+  image="images/IMG-0584.jpg"
   link="tools"
   headline="Our Tools"
   text=text
 %}
 
 {% capture text %}
-We are highly collaborative and are currently recruiting PhD students, postdocs, and undergraduate researchers. 
+We are highly collaborative and are currently recruiting PhD students, postdocs, and undergraduate researchers. Graduate level researchers should send an introductory email, and undergraduate researchers should apply through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfVRt82UDINJlIHZn858qKjeD8qR4kIAMq85jNibOfhf0Vy_g/viewform?usp=sf_link).
 
 [Meet our team &nbsp;→](team)
 {:.center}
@@ -58,7 +58,7 @@ We are highly collaborative and are currently recruiting PhD students, postdocs,
 
 {%
   include feature.html
-  image="images/GatorGlobe.jpeg"
+  image="images/IMG-0655.jpg"
   link="team"
   headline="Our Team"
   text=text
