@@ -1,6 +1,6 @@
 ---
 name: Tina Salehi Torabi
-image: images/member.jpg
+image: images/IMG-0659.jpg
 description: PhD Student
 role: phd
 group: alum
