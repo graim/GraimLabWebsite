@@ -41,14 +41,14 @@ USA
 {%
   include figure.html
   image="images/UF_Campus_FriesSculpture.jpeg"
-  caption="CISE Department"
+  caption="CISE Department sculpture"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/UF_CenturyTower.jpeg"
-  caption="University of Florida"
+  image="images/IMG-5084.JPEG"
+  caption="Graim lab meeting"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
@@ -58,22 +58,22 @@ USA
 {% capture col2 %}
 {%
   include figure.html
-  image="images/UF_Campus_FriesSculpture.jpeg"
-  caption="CISE Department"
+  image="images/IMG-0638.jpg"
+  caption="Graim lab"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/UF_CenturyTower.jpeg"
-  caption="University of Florida"
+  caption="University of Florida Century Tower"
 %}
 {% endcapture %}
 {% capture col3 %}
 {%
   include figure.html
   image="images/GatorGlobe.jpeg"
-  caption="University of Florida"
+  caption="University of Florida Gator Globe sculpture"
 %}
 {% endcapture %}
 {% include three-col.html col1=col1 col2=col2 col3=col3 %}
