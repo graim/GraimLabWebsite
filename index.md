@@ -41,6 +41,7 @@ Knowledge gained through application of our tools identifies insights to develop
 {:.center}
 {% endcapture %}
 
+{% capture text %}
 
 {%
   include feature.html
@@ -49,6 +50,7 @@ Knowledge gained through application of our tools identifies insights to develop
   headline="Our Tools"
   text=text
 %}
+{% endcapture %}
 
 {% capture text %}
 We are highly collaborative and are currently recruiting PhD students, postdocs, and undergraduate researchers. Graduate level researchers should send an introductory email, and undergraduate researchers should apply through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfVRt82UDINJlIHZn858qKjeD8qR4kIAMq85jNibOfhf0Vy_g/viewform?usp=sf_link).
