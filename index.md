@@ -41,6 +41,7 @@ Knowledge gained through application of our tools identifies insights to develop
 {:.center}
 {% endcapture %}
 
+
 {%
   include feature.html
   image="images/IMG-5084.jpg"
