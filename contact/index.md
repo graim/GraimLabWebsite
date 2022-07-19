@@ -40,8 +40,8 @@ USA
 {% capture col1 %}
 {%
   include figure.html
-  image="images/UF_Campus_FriesSculpture.jpeg"
-  caption="CISE Department sculpture"
+  image="images/IMG-0638.jpg"
+  caption="Graim lab"
 %}
 {% endcapture %}
 {% capture col2 %}
@@ -58,8 +58,8 @@ USA
 {% capture col2 %}
 {%
   include figure.html
-  image="images/IMG-0638.jpg"
-  caption="Graim lab"
+  image="images/UF_Campus_FriesSculpture.jpeg"
+  caption="CISE Department sculpture"
 %}
 {% endcapture %}
 {% capture col2 %}
