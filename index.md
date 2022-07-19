@@ -43,7 +43,7 @@ TESTING
 
 {%
   include feature.html
-  image="images/IMG-5084.jpg"
+  image="images/IMG-0640.jpg"
   link="tools"
   headline="TESTING"
   text=text
