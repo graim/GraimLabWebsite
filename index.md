@@ -35,23 +35,6 @@ We are studying the evolution of cancer across mammalia, designing machine learn
 %}
 
 {% capture text %}
-TESTING
-
-[See what we've published &nbsp;→](research)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/IMG-0640.jpg"
-  link="tools"
-  headline="TESTING"
-  text=text
-%}
-
-
-
-{% capture text %}
 Knowledge gained through application of our tools identifies insights to develop precision medicine therapies.
 
 [See our tools &nbsp;→](tools)
@@ -60,7 +43,7 @@ Knowledge gained through application of our tools identifies insights to develop
 
 {%
   include feature.html
-  image="images/IMG-5084.jpg"
+  image="images/IMG-5084.JPEG"
   link="tools"
   headline="Our Tools"
   text=text
