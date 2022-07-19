@@ -35,13 +35,28 @@ We are studying the evolution of cancer across mammalia, designing machine learn
 %}
 
 {% capture text %}
+TESTING
+
+[See what we've published &nbsp;→](research)
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/IMG-5084.jpg"
+  link="tools"
+  headline="TESTING"
+  text=text
+%}
+
+
+
+{% capture text %}
 Knowledge gained through application of our tools identifies insights to develop precision medicine therapies.
 
 [See our tools &nbsp;→](tools)
 {:.center}
 {% endcapture %}
-
-{% capture text %}
 
 {%
   include feature.html
@@ -50,7 +65,6 @@ Knowledge gained through application of our tools identifies insights to develop
   headline="Our Tools"
   text=text
 %}
-{% endcapture %}
 
 {% capture text %}
 We are highly collaborative and are currently recruiting PhD students, postdocs, and undergraduate researchers. Graduate level researchers should send an introductory email, and undergraduate researchers should apply through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfVRt82UDINJlIHZn858qKjeD8qR4kIAMq85jNibOfhf0Vy_g/viewform?usp=sf_link).
