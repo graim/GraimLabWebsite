@@ -51,8 +51,7 @@ We are a collaborative lab that works closely with researchers at UF and other u
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Remember that the PhD is a marathon, not a race. Be kind to yourself and your labmates and do good science.
-The Graim Lab has no expectation that students, staff, or faculty work nights or weekends. We expect everyone to respect other's choices of their work hours. This means that you can send an email late Saturday night but do not expect a response until normal working hours. 
+Remember that the PhD is a marathon, not a race. Be kind to yourself and your labmates and do good science. While academic freedom is earned by academic productivity, the Graim Lab has no expectation that students, staff, or faculty work nights or weekends. We expect everyone to respect other's choices of their work hours. This means that you can send an email late Saturday night but do not expect a response until normal working hours. 
 
 {%
   include link.html
