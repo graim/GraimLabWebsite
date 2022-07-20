@@ -8,7 +8,8 @@ logo: images/GraimLabLogo_WebsiteRecolor.png
 header: images/GraimLab_Background_Genomes.png
 footer: images/GraimLab_Background_Genomes.png
 #footer: images/background.jpg
-baseurl: /lab-website-template
+#baseurl: /lab-website-template
+baseurl: ""
 
 # site social media and other links
 links:
