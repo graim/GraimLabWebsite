@@ -56,7 +56,7 @@ USA
 {%
   include figure.html
   image="images/GatorGlobe.jpeg"
-  caption="University of Florida Gator Globe sculpture"
+  caption="University of Florida Gator Globe"
 %}
 {% endcapture %}
 {% include three-col.html col1=col1 col2=col2 col3=col3 %}
