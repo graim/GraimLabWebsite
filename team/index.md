@@ -37,13 +37,18 @@ We are a collaborative lab that works closely with researchers at UF and other u
 
 ## Masters/Undergraduate Researchers
 
-- Ravi Teja Veernapu - graduate researcher (summer 2022)
-- Bryan Atkinson - undergraduate researcher (summer 2022)
+- Rachel Fenton - undergraduate researcher (spring 2023)
+- Lucas Pereira - undergraduate researcher (fall 2022/spring 2023)
+- Jiayu Huang - undergraduate researcher (fall 2022/spring 2023)
+- Jonathan Kahn - undergraduate researcher (spring 2023)
 
 {% include section.html %}
 
 ## Alumni
 
+- Ravi Teja Veernapu - graduate researcher (summer/fall 2022)
+- Bryan Atkinson - undergraduate researcher (summer 2022)
+- Manas Gupta - graduate researcher (fall 2022)
 - Adam Opyrchal - undergraduate researcher (fall 2021)
 - Adriel Nittala - undergraduate researcher (fall 2021)
 - Ana Ausek - undergraduate researcher (summer 2021)
@@ -66,7 +71,7 @@ Remember that the PhD is a marathon, not a race. Be kind to yourself and your la
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by funding from several organizations, including an NIH/NCI R01 and a catalyst fund from the UF Cancer Center.
 {:.center}
 <!--
 {%
