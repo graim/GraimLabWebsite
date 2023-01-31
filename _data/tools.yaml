@@ -1,7 +1,7 @@
 - name: ExoGAN
   group: featured
   image: images/GatorGlobe.jpeg
-  link: https://github.com/zfg2013/ExoGAN-v1-
+  link: https://github.com/zfg2013/ExoGAN-v2
   description: ExoGAN designs precision receptor-targeting peptides using quantum chemically predicted features to understand physiochemical interaction dynamics, increasing the efficacy of designed point-target exosomal pharmaceutics.
 
 - name: Canine Mammary Tumor Dataset
