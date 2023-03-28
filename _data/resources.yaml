@@ -46,7 +46,6 @@
   link: https://dynamicecology.wordpress.com/2018/03/19/statistical-vignette-of-the-day-as-a-teaching-tool/
   description: "How small changes to a paper can help to smooth the review process."
  
- 
 - name: Gender bias calculator
   group: more
   image: images/GatorGlobe.jpeg
@@ -59,7 +58,15 @@
   link:   https://www.animateyour.science/post/how-to-design-an-award-winning-conference-poster
   description: Blog post describing good poster design principles.
    
-  
-  
+- name: Introduction to statistics (original R version)
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://learningstatisticswithr.com/
+  description: A introductory book to statistical analysis using R. 
    
+- name: Introduction to statistics (python version)
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://ethanweed.github.io/pythonbook/landingpage.html
+  description: A introductory book to statistical analysis using Python. 
  
