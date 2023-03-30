@@ -69,4 +69,11 @@
   image: images/GatorGlobe.jpeg
   link: https://ethanweed.github.io/pythonbook/landingpage.html
   description: A introductory book to statistical analysis using Python. 
+  
+- name: Bash tutorials
+  group: more
+  image: images/GatorGlobe.jpeg
+  link:   https://ryanstutorials.net/bash-scripting-tutorial/
+  description: An introduction to bash scripting. 
+  
  
