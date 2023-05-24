@@ -74,4 +74,10 @@
   group: more
   image: images/GatorGlobe.jpeg
   link:   https://ryanstutorials.net/bash-scripting-tutorial/
-  description: An introduction to bash scripting. 
+  description: An introduction to bash scripting.
+  
+- name: Fundamentals of Data Viz
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://clauswilke.com/dataviz/
+  description: A textbook and accompanying codebase on data visualization. 
