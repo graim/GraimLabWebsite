@@ -1,5 +1,5 @@
 - name: Seven year postdoc
-  group: featured
+  group: more
   image: images/GatorGlobe.jpeg
   link: https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/
   description: "The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life"
@@ -15,43 +15,19 @@
   image: images/GatorGlobe.jpeg
   link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
   description: "This paper presents a set of good computing practices that every researcher can adopt, regardless of their current level of computational skill."
-
-- name: Avoiding racial bias in letter of reference writing
-  group: more
-  image: images/GatorGlobe.jpeg
-  link: https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf
-  description: "Don’t fall into these common traps rooted in unconscious bias."
   
 - name: The Missing Semester of Your CS Education
   group: more
   image: images/GatorGlobe.jpeg
   link: https://missing.csail.mit.edu/
   description: Learning the command line, data management, and other important CS skills that you may not have learned yet.
-  
-- name: Silhouette images
-  group: more
-  image: images/GatorGlobe.jpeg
-  link: http://phylopic.org/
-  description: Free silhouette images of animals, plants, etc.
 
 - name: Manuscript writing advice
-  group: more
+  group: featured
   image: images/GatorGlobe.jpeg
   link: https://www.nature.com/articles/d41586-019-01431-z
   description: "How small changes to a paper can help to smooth the review process."
- 
-- name: Statistical vignette of the day
-  group: more
-  image: images/GatorGlobe.jpeg
-  link: https://dynamicecology.wordpress.com/2018/03/19/statistical-vignette-of-the-day-as-a-teaching-tool/
-  description: "How small changes to a paper can help to smooth the review process."
- 
-- name: Gender bias calculator
-  group: more
-  image: images/GatorGlobe.jpeg
-  link: http://slowe.github.io/genderbias/
-  description: Tool for identifying gendered language in job ads and letters of ref.
-  
+
 - name: Designing an award-winning poster
   group: more
   image: https://static.wixstatic.com/media/a440e2_492f829849774ddd9542fd9025d706e7~mv2.png
@@ -81,3 +57,28 @@
   image: images/GatorGlobe.jpeg
   link: https://clauswilke.com/dataviz/
   description: A textbook and accompanying codebase on data visualization. 
+
+- name: Data Carpentry Genomics Workshop
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://datacarpentry.org/genomics-workshop/
+  description: This workshop teaches data management and analysis for genomics research. 
+   
+- name: Statistical vignette of the day
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://dynamicecology.wordpress.com/2018/03/19/statistical-vignette-of-the-day-as-a-teaching-tool/
+  description: "Interesting statistical anomalies and correlations."
+  
+- name: Silhouette images
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: http://phylopic.org/
+  description: Free silhouette images of animals, plants, etc.
+
+- name: Gender bias calculator
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: http://slowe.github.io/genderbias/
+  description: Tool for identifying gendered language in job ads and letters of ref.
+
