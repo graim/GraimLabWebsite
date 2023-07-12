@@ -1,5 +1,81 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:doi.org/10.1101/2023.06.28.546898
+  title: Is a Picture Worth 1,000 SNPs? Effects of User-Submitted Photographs on Ancestry
+    Estimates from Direct-to-Consumer Canine Genetic Tests
+  authors:
+  - Halie M. Rando
+  - Kiley Graim
+  - Greg Hampikian
+  - Casey S. Greene
+  publisher: Genetics
+  date: '2023-06-29'
+  link: https://doi.org/gsd85m
+  image: https://www.biorxiv.org/sites/default/files/bioRxiv_article.jpg
+  tags:
+  - tools
+  - preprint
+- id: doi:doi.org/10.1016/j.addr.2023.114974
+  title: Towards artificial intelligence-enabled extracellular vesicle precision drug
+    delivery
+  authors:
+  - Zachary F. Greenberg
+  - Kiley S. Graim
+  - Mei He
+  publisher: Advanced Drug Delivery Reviews
+  date: '2023-08-01'
+  link: https://doi.org/gsgd4n
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0169409X23002892-ga1.jpg
+  tags:
+  - tools
+  - cancer
+- id: doi:doi.org/10.1097/CCE.0000000000000929
+  title: DHCR7 Expression Predicts Poor Outcomes and Mortality From Sepsis
+  authors:
+  - Faheem W. Guirgis
+  - Vinitha Jacob
+  - Dongyuan Wu
+  - Morgan Henson
+  - Kimberly Daly-Crews
+  - Charlotte Hopson
+  - Lauren Page Black
+  - Elizabeth L. DeVos
+  - Dawoud Sulaiman
+  - Guillaume Labilloy
+  - Todd M. Brusko
+  - Jordan A. Shavit
+  - Andrew Bertrand
+  - Matthew Feldhammer
+  - Brett Baskovich
+  - Kiley Graim
+  - Susmita Datta
+  - Srinivasa T. Reddy
+  publisher: Critical Care Explorations
+  date: '2023-06-14'
+  link: https://doi.org/gsgd48
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10270496/figure/F2/
+  tags:
+  - sepsis
+- id: doi:doi.org/10.1097/SHK.0000000000001952
+  title: EARLY DIFFERENTIATION BETWEEN SEPSIS AND STERILE INFLAMMATION VIA URINARY
+    GENE SIGNATURES OF METABOLIC DYSREGULATION
+  authors:
+  - Sabyasachi Bandyopadhyay
+  - Tyler J. Loftus
+  - Ying-Chih Peng
+  - Maria-Cecilia Lopez
+  - Henry V. Baker
+  - Mark S. Segal
+  - Kiley Graim
+  - Tezcan Ozrazgat-Baslanti
+  - Parisa Rashidi
+  - Azra Bihorac
+  publisher: Shock
+  date: '2022-07-01'
+  link: https://doi.org/gsgd49
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9391290/figure/F1/
+  tags:
+  - sepsis
 - id: doi:doi.org/10.1038/s41698-022-00271-x
   title: Drivers of genomic loss of heterozygosity in leiomyosarcoma are distinct
     from carcinomas
