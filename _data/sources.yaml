@@ -10,7 +10,7 @@
     - tools
     - cancer
 
-- id: doi:doi.org/10.1097%2FCCE.0000000000000929
+- id: doi:doi.org/10.1097/CCE.0000000000000929
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10270496/figure/F2/
   tags:
     - sepsis
