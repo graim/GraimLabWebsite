@@ -45,7 +45,13 @@
   image: images/GatorGlobe.jpeg
   link: https://ethanweed.github.io/pythonbook/landingpage.html
   description: A introductory book to statistical analysis using Python. 
-  
+
+- name: Alex's Lemonade Stand Training Modules
+  group: more
+  image: https://www.alexslemonade.org/sites/all/themes/alsf_adaptive/images/alsf-logo.png
+  link: https://github.com/AlexsLemonade/training-modules
+  description: This repository is a collection of modules that are combined into 1-5 day workshops on computational topics for the childhood cancer research community.
+
 - name: Bash tutorials
   group: more
   image: images/GatorGlobe.jpeg
