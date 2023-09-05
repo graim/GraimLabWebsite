@@ -1,6 +1,6 @@
 ---
 name: Bria Smith
-image: images/member.JPG
+image: images/Bria_Smith.JPG
 description: PhD Student
 role: phd
 group: alum
