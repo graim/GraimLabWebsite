@@ -37,15 +37,17 @@ We are a collaborative lab that works closely with researchers at UF and other u
 
 ## Masters/Undergraduate Researchers
 
-- Rachel Fenton - undergraduate researcher (spring 2023)
-- Lucas Pereira - undergraduate researcher (fall 2022/spring 2023)
-- Jiayu Huang - undergraduate researcher (fall 2022/spring 2023)
-- Jonathan Kahn - undergraduate researcher (spring 2023)
+- Ayushma Joshi - graduate researcher (fall 2023)
+- Mira Balaji - undergraduate researcher (fall 2023)
+- Rachel Fenton - undergraduate researcher (spring 2023 - spring 2024)
+- Lucas Pereira - undergraduate researcher (fall 2022 - spring 2024)
+- Jonathan Kahn - undergraduate researcher (spring 2023 - spring 2024)
 
 {% include section.html %}
 
 ## Alumni
 
+- Jiayu Huang - undergraduate researcher (fall 2022/spring 2023)
 - Ravi Teja Veernapu - graduate researcher (summer/fall 2022)
 - Bryan Atkinson - undergraduate researcher (summer 2022)
 - Manas Gupta - graduate researcher (fall 2022)
