@@ -6,7 +6,7 @@ role: phd
 group: alum
 aliases:
   - Z Greenburg
-  - L Smith
+  - Z.Greenburg
 
 ---
 
