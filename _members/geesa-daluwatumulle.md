@@ -1,6 +1,6 @@
 ---
 name: Geesa Daluwatumulle
-image: images/member.JPG
+image: images/Geesa_Daluwatumulle.JPG
 description: PhD Student
 role: phd
 group: alum
