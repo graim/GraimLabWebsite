@@ -58,7 +58,7 @@ We are highly collaborative and are currently recruiting PhD students, postdocs,
 
 {%
   include feature.html
-  image="images/IMG-0655.jpg"
+  image="images/IMG_4141.HEIC"
   link="team"
   headline="Our Team"
   text=text
