@@ -88,3 +88,51 @@
   link: http://slowe.github.io/genderbias/
   description: Tool for identifying gendered language in job ads and letters of ref.
 
+- name: R EasyStats
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://easystats.github.io/easystats/
+  description: A collection of R packages for easy statistics and models.
+
+- name: What they forgot to teach you about R
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://rstats.wtf/
+  description: This book focuses on content intrinsically related to the infrastructure surrounding data analysis in R, but does not delve into the data analysis itself.
+
+- name: DIY.transcriptomics
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://diytranscriptomics.com/
+  description: Best practices for the analysis of high-throughput sequencing data from gene expression (RNA-seq) studies.
+
+- name: Ten simple rules for attending your first conference
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009133
+  description: Ten simple rules for attending your first conference.
+
+- name: The Elements of Statistical Learning
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://hastie.su.domains/ElemStatLearn/ 
+  description: Recommended textbook on data mining, statistics, and predictive modeling.
+
+- name: Fundamentals of Data Visualization
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://clauswilke.com/dataviz/
+  description: A guide to making visualizations that accurately reflect the data, tell a story, and look professional.
+
+- name: CCDL Workshop Materials
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://www.ccdatalab.org/workshop-materials
+  description: Workshop materials from the Childhood Cancer Data Lab.
+ 
+- name: The Science of Scientific Writing
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://lowepowerlab.ucdavis.edu/assets/resources/science_of_writing.pdf
+  description: A guide to revising/improving your scientific writing.
+ 
