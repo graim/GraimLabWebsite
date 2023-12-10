@@ -135,4 +135,12 @@
   image: images/GatorGlobe.jpeg
   link: https://lowepowerlab.ucdavis.edu/assets/resources/science_of_writing.pdf
   description: A guide to revising/improving your scientific writing.
+
+- name: How to read a scientific article
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf
+  description: Efficient Reading of Papers in Science and Technology.
+
+  
  
