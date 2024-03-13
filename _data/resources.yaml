@@ -142,5 +142,8 @@
   link: https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf
   description: Efficient Reading of Papers in Science and Technology.
 
-  
- 
+- name: Current Topics in Bioinformatics workshops
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://hbctraining.github.io/Training-modules/
+  description: Tutorials by the Harvard Chang bioinformatics core.
