@@ -28,3 +28,9 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12920-017-0256-3/MediaObjects/12920_2017_256_Fig1_HTML.gif?as=webp
   link: https://github.com/graim/HOCUS
   description: A unified analytical framework for patient stratification that uses a community detection technique to extract subtypes from sparse patient measurements. 
+
+- name: PhyloFrame
+  group: featured
+  image: images/GatorGlobe.jpeg
+  link: https://github.com/leslie-smith1112/phyloFrame
+  description: An ML approach for generating ancestry unbaised genetic signatures. 
