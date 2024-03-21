@@ -147,3 +147,10 @@
   image: images/GatorGlobe.jpeg
   link: https://hbctraining.github.io/Training-modules/
   description: Tutorials by the Harvard Chang bioinformatics core.
+
+- name: Posit R snippets
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://posit.cloud/learn/recipes
+  description: A collection of R code snippets and instructions featuring up-to-date best practices for coding in R
+
