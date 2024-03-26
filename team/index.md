@@ -73,7 +73,7 @@ Remember that the PhD is a marathon, not a race. Be kind to yourself and your la
 
 ## Funding
 
-Our work is made possible by funding from several organizations, including an NIH/NCI R01 and a catalyst fund from the UF Cancer Center.
+Our work is made possible by funding from several organizations, including an NIH/NCI R01 and a catalyst fund from the UF Cancer Center and UF Intelligent Critical Care Center.
 {:.center}
 <!--
 {%
