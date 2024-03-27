@@ -154,3 +154,10 @@
   link: https://posit.cloud/learn/recipes
   description: A collection of R code snippets and instructions featuring up-to-date best practices for coding in R
 
+- name: NCI Bioinformatics Training & Education Program
+  group: more
+  image: https://btep.ccr.cancer.gov/wp-content/uploads/nihlogo.svg
+  link: https://bioinformatics.ccr.cancer.gov/btep/
+  description: Enabling scientists to understand and analyze their own experimental data by providing instruction and training in bioinformatics software, databases, analyses techniques, and emerging technologies.
+
+
