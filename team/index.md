@@ -39,6 +39,7 @@ We are a collaborative lab that works closely with researchers at UF and other u
 
 - Mira Balaji - undergraduate researcher (fall 2023 - spring 2024)
 - Franco Krepel - undergraduate researcher (spring 2024)
+- Nathan Gilman - undergraduate researcher (fall 2024)
 
 {% include section.html %}
 
