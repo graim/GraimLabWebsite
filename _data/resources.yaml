@@ -160,4 +160,19 @@
   link: https://bioinformatics.ccr.cancer.gov/btep/
   description: Enabling scientists to understand and analyze their own experimental data by providing instruction and training in bioinformatics software, databases, analyses techniques, and emerging technologies.
 
+- name: Ten simple rules for structuring papers
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619
+  description: A short guide to writing scientific papers.
+
+- name: PLoS Collection 10 Simple Rules
+  group: more
+  image: https://collections.plos.org/wp-content/uploads/2020/01/logo-sea.svg
+  link: https://collections.plos.org/collection/ten-simple-rules/
+  description: A quick, concentrated guides for mastering some of the professional challenges research scientists face in their careers.
+
+
+  https://collections.plos.org/collection/ten-simple-rules/
+
 
