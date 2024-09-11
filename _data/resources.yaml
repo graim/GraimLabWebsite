@@ -172,4 +172,8 @@
   link: https://collections.plos.org/collection/ten-simple-rules/
   description: A quick, concentrated guides for mastering some of the professional challenges research scientists face in their careers.
 
-
+- name: Nature Summary Paragraph
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://www.nature.com/documents/nature-summary-paragraph.pdf
+  description: An annotated summary paragraph provided by Nature. 
