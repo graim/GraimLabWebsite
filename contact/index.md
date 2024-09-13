@@ -42,21 +42,21 @@ USA
 {%
   include figure.html
   image="images/2024_04_EndOfSemesterPresentationsLabMeeting.jpg"
-  caption="CISE Department sculpture"
+  caption="2024 undergraduate researcher Franco presents at lab meeting"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/IMG_4141.jpeg"
-  caption="University of Florida Century Tower"
+  caption="2024 group photo of the lab"
 %}
 {% endcapture %}
 {% capture col3 %}
 {%
   include figure.html
   image="images/IMG_3310.jpg"
-  caption="University of Florida Gator Globe"
+  caption="2024 graduate student researcher Bria presents at lab meeting"
 %}
 {% endcapture %}
 {% include three-col.html col1=col1 col2=col2 col3=col3 %}
@@ -66,14 +66,14 @@ USA
 {%
   include figure.html
   image="images/IMG-0638.jpg"
-  caption="Graim lab"
+  caption="2022 Graim lab group photo"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/IMG-5084.JPEG"
-  caption="Graim lab meeting"
+  caption="2022 Graim lab meeting"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
