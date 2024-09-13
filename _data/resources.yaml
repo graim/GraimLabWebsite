@@ -118,12 +118,6 @@
   link: https://hastie.su.domains/ElemStatLearn/ 
   description: Recommended textbook on data mining, statistics, and predictive modeling.
 
-- name: Fundamentals of Data Visualization
-  group: more
-  image: images/GatorGlobe.jpeg
-  link: https://clauswilke.com/dataviz/
-  description: A guide to making visualizations that accurately reflect the data, tell a story, and look professional.
-
 - name: CCDL Workshop Materials
   group: more
   image: images/GatorGlobe.jpeg
@@ -143,7 +137,7 @@
   description: Efficient Reading of Papers in Science and Technology.
 
 - name: Current Topics in Bioinformatics workshops
-  group: more
+  group: featured
   image: images/GatorGlobe.jpeg
   link: https://hbctraining.github.io/Training-modules/
   description: Tutorials by the Harvard Chang bioinformatics core.
@@ -191,7 +185,7 @@
   description: This website consists of five sections and a checklist you can print. In each section, you will find a number of cards you can flip through to learn about using plain language in your work. When you are done with the final section, you can print a certificate of completion. 
 
 - name: Data To Viz
-  group: more
+  group: featured
   image: https://www.data-to-viz.com/img/logo/tree-s.png
   link: https://www.data-to-viz.com/
   description: From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid. 
