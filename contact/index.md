@@ -41,21 +41,21 @@ USA
 {% capture col1 %}
 {%
   include figure.html
-  image="images/UF_Campus_FriesSculpture.jpeg"
+  image="images/2024_04_EndOfSemesterPresentationsLabMeeting.jpg"
   caption="CISE Department sculpture"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/UF_CenturyTower.jpeg"
+  image="images/IMG_4141.jpeg"
   caption="University of Florida Century Tower"
 %}
 {% endcapture %}
 {% capture col3 %}
 {%
   include figure.html
-  image="images/GatorGlobe.jpeg"
+  image="images/IMG_3310.jpg"
   caption="University of Florida Gator Globe"
 %}
 {% endcapture %}
