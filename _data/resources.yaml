@@ -23,7 +23,7 @@
   description: Learning the command line, data management, and other important CS skills that you may not have learned yet.
 
 - name: Manuscript writing advice
-  group: featured
+  group: more
   image: images/GatorGlobe.jpeg
   link: https://www.nature.com/articles/d41586-019-01431-z
   description: "How small changes to a paper can help to smooth the review process."
@@ -137,7 +137,7 @@
   description: Efficient Reading of Papers in Science and Technology.
 
 - name: Current Topics in Bioinformatics workshops
-  group: featured
+  group: more
   image: images/GatorGlobe.jpeg
   link: https://hbctraining.github.io/Training-modules/
   description: Tutorials by the Harvard Chang bioinformatics core.
