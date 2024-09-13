@@ -15,7 +15,7 @@ nav:
 - Take a full course load, working to complete your PhD program guidelines ([CISE guidelines](https://www.cise.ufl.edu/academics/graduate/phd/), [UFGI guidelines](http://ufgi.ufl.edu/grad-program/graduate-policies/)).
 - You must sign up for 9 credits moving forward. To do this, fill your credits with CIS 7979.
 - You are being paid by the _lab_.
-- Form your PhD committee by the end of your first year (this requires signed forms).
+- Form your PhD committee by the end of this year (this requires signed forms).
 - You should take a vacation.
 
 **Year 2:**
@@ -32,6 +32,7 @@ nav:
 - Take and pass the qualifying exam.
 - Finish up any coursework requirements you have not yet completed (e.g. seminar credits).
 - Prepare for your candidacy exams.
+- Pass your candidacy exams.
 - You should now be spending most of your time on research, not classes. Congratulations!
 
 **Year 4 (and beyond):**
