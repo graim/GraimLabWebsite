@@ -190,5 +190,10 @@
   link: https://www.data-to-viz.com/
   description: From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid. 
 
+- name: Nature summary paragraph
+  group: more
+  image: images/GatorGlobe.jpeg
+  link:   https://www.nature.com/documents/nature-summary-paragraph.pdf
+  description: Color-coded example of how to write an abstract.
 
 
