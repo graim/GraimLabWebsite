@@ -196,4 +196,27 @@
   link:   https://www.nature.com/documents/nature-summary-paragraph.pdf
   description: Color-coded example of how to write an abstract.
 
+- name: How to schedule a committee meeting
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://serialmentor.wordpress.com/2014/10/15/20141014how-to-schedule-a-committee-meeting/
+  description: Claus Wilke's guide to getting 5 faculty into a room at the same time to listen to your annual research update. 
 
+- name: Latex equation editor
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://editor.codecogs.com/
+  description: For when you really need a high quality image of your latex equation and don't want to screenshot it. 
+
+- name: Latex symbol finder
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://detexify.kirelabs.org/classify.html
+  description: When you can't remember what the latex name is for a symbol, detexify has your back. It lets you draw the symbol and will show close matches.
+
+- name: Latex table generator
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://www.tablesgenerator.com/
+  description: An easy way to create beautiful latex tables. 
+  
