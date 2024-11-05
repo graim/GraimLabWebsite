@@ -226,3 +226,18 @@
   link: https://bioart.niaid.nih.gov/
   description: Build figures, presentations, and illustrations with 2,000+ science and medical art visuals. This collection of high-quality, scientifically accurate vectors, icons, and brushes is freely available within the public domain. 
   
+- name: Friends Don't Let Friends Make Bad Graphs
+  group: more
+  image: https://github.com/cxli233/FriendsDontLetFriends/raw/main/Results/dont_bar_plot.png
+  link: https://github.com/cxli233/FriendsDontLetFriends
+  description: Chenxin Li's guide to data visualization. Friends don't let friends make certain types of data visualization - What are they and why are they bad.
+
+- name: Visualization Workshop Slides
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://drive.google.com/file/d/1LouVvISCRlWkItZgzoHcgoU5Q1VyHT4U/view
+  description: Slides from Dan Larremore and Sam Way's workshop on data visualization. 
+
+
+  
+  
