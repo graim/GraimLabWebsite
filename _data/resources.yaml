@@ -238,6 +238,21 @@
   link: https://drive.google.com/file/d/1LouVvISCRlWkItZgzoHcgoU5Q1VyHT4U/view
   description: Slides from Dan Larremore and Sam Way's workshop on data visualization. 
 
+- name: MatPlotLib Cheatsheets
+  group: more
+  image: https://matplotlib.org/cheatsheets/_static/logo_light.svg
+  link: https://matplotlib.org/cheatsheets/
+  description: Tips and cheatsheets by and for MatPlotLib.  
+  
+- name: ColorHunt Palette Guide
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://colorhunt.co/
+  description: A whole lot of color palettes. 
+
+
+  
+
 
   
   
