@@ -1,8 +1,46 @@
-- id: doi:doi.org/10.1101/2023.06.28.546898
-  image: https://www.biorxiv.org/sites/default/files/bioRxiv_article.jpg
+- id: doi:
+  image: 
   tags:
     - tools
-    - preprint
+
+- id: doi:
+  image: 
+  tags:
+    - tools
+
+- id: doi:doi.org/10.1146/annurev-biodatasci-102423-111936
+  image: https://www.annualreviews.org/docserver/fulltext/biodatasci/7/1/bd70107.f1.gif
+  tags:
+    - tools
+    - cancer
+    - comparative genomics
+
+- id: doi:doi.org/10.1038/s41598-024-55568-7
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-024-55568-7/MediaObjects/41598_2024_55568_Fig2_HTML.png?as=webp
+  tags:
+    - tools
+
+- id: doi:doi.org/10.1111/cts.13745
+  image: https://ascpt.onlinelibrary.wiley.com/pb-assets/journal-banners/17528062-1508834610343.jpg
+  tags:
+    - sepsis
+
+- id: doi:doi.org/10.21203/rs.3.rs-3168446/v1
+  image: https://www.researchsquare.com/static/img/logos/logo-rs.svg
+  tags:
+    - tools
+    - cancer
+
+- id: doi:doi.org/10.1101/2024.02.06.578050
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_article.jpg
+  tags:
+    - tools
+    - cancer
+
+- id: doi:doi.org/10.2460/javma.23.07.0372
+  image: https://avmajournals.avma.org/fileasset//fileasset/AVMA-publications-logo.png
+  tags:
+    - comparative genomics
 
 - id: doi:doi.org/10.1016/j.addr.2023.114974
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0169409X23002892-ga1.jpg
