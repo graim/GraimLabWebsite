@@ -1,13 +1,3 @@
-- id: doi:
-  image: 
-  tags:
-    - tools
-
-- id: doi:
-  image: 
-  tags:
-    - tools
-
 - id: doi:doi.org/10.1146/annurev-biodatasci-102423-111936
   image: https://www.annualreviews.org/docserver/fulltext/biodatasci/7/1/bd70107.f1.gif
   tags:
