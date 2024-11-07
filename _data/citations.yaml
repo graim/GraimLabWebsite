@@ -1,20 +1,102 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:doi.org/10.1101/2023.06.28.546898
-  title: Is a Picture Worth 1,000 SNPs? Effects of User-Submitted Photographs on Ancestry
-    Estimates from Direct-to-Consumer Canine Genetic Tests
+- id: doi:doi.org/10.1146/annurev-biodatasci-102423-111936
+  title: 'Bringing the Genomic Revolution to Comparative Oncology: Human and Dog Cancers'
+  authors:
+  - James A. Cahill
+  - Leslie A. Smith
+  - Soumya Gottipati
+  - Tina Salehi Torabi
+  - Kiley Graim
+  publisher: Annual Review of Biomedical Data Science
+  date: '2024-08-23'
+  link: https://doi.org/g8qczf
+  image: https://www.annualreviews.org/docserver/fulltext/biodatasci/7/1/bd70107.f1.gif
+  tags:
+  - tools
+  - cancer
+  - comparative genomics
+- id: doi:doi.org/10.1038/s41598-024-55568-7
+  title: 'The model student: GPT-4 performance on graduate biomedical science exams'
+  authors:
+  - Daniel Stribling
+  - Yuxing Xia
+  - Maha K. Amer
+  - Kiley S. Graim
+  - Connie J. Mulligan
+  - Rolf Renne
+  publisher: Scientific Reports
+  date: '2024-03-07'
+  link: https://doi.org/g8qczg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-024-55568-7/MediaObjects/41598_2024_55568_Fig2_HTML.png?as=webp
+  tags:
+  - tools
+- id: doi:doi.org/10.1111/cts.13745
+  title: "Lipidomic changes in a novel sepsis <span style=\"font-variant:small-caps;\"\
+    >outcome\u2010based</span> analysis reveals potent <span style=\"font-variant:small-caps;\"\
+    >pro\u2010inflammatory</span> and <span style=\"font-variant:small-caps;\">pro\u2010\
+    resolving</span> signaling lipids"
+  authors:
+  - Dawoud Sulaiman
+  - Dongyuan Wu
+  - Lauren Page Black
+  - Kevin J. Williams
+  - Kiley Graim
+  - Susmita Datta
+  - Srinivasa T. Reddy
+  - Faheem W. Guirgis
+  publisher: Clinical and Translational Science
+  date: '2024-03-01'
+  link: https://doi.org/g8qczh
+  image: https://ascpt.onlinelibrary.wiley.com/pb-assets/journal-banners/17528062-1508834610343.jpg
+  tags:
+  - sepsis
+- id: doi:doi.org/10.21203/rs.3.rs-3168446/v1
+  title: Equitable machine learning counteracts ancestral bias in precision medicine,
+    improving outcomes for all
+  authors:
+  - Kiley Graim
+  - Leslie Smith
+  - James Cahill
+  publisher: In Review
+  date: '2023-07-27'
+  link: https://doi.org/g8qczj
+  image: https://www.researchsquare.com/static/img/logos/logo-rs.svg
+  tags:
+  - tools
+  - cancer
+- id: doi:doi.org/10.1101/2024.02.06.578050
+  title: Peptide-based capture-and-release purification of extracellular vesicles
+    and statistical algorithm enabled quality assessment
+  authors:
+  - Zachary F. Greenberg
+  - Samantha Ali
+  - Thomas D. Schmittgen
+  - Song Han
+  - Steven J. Hughes
+  - Kiley S. Graim
+  - Mei He
+  publisher: Bioengineering
+  date: '2024-02-08'
+  link: https://doi.org/g8qczk
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_article.jpg
+  tags:
+  - tools
+  - cancer
+- id: doi:doi.org/10.2460/javma.23.07.0372
+  title: Many direct-to-consumer canine genetic tests can identify the breed of purebred
+    dogs
   authors:
   - Halie M. Rando
   - Kiley Graim
   - Greg Hampikian
   - Casey S. Greene
-  publisher: Genetics
-  date: '2023-06-29'
-  link: https://doi.org/gsd85m
-  image: https://www.biorxiv.org/sites/default/files/bioRxiv_article.jpg
+  publisher: Journal of the American Veterinary Medical Association
+  date: '2024-05-01'
+  link: https://doi.org/gtn72p
+  image: https://avmajournals.avma.org/fileasset//fileasset/AVMA-publications-logo.png
   tags:
-  - tools
-  - preprint
+  - comparative genomics
 - id: doi:doi.org/10.1016/j.addr.2023.114974
   title: Towards artificial intelligence-enabled extracellular vesicle precision drug
     delivery
