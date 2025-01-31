@@ -256,6 +256,13 @@
   link: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.1258
   description: A step-by-step guide to writing a scientific manuscript. 
 
+- name: Monte Carlo simulations explained
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://youtu.be/OdWLP8umw3A?si=dNMmU4oxUXuKP7P5&amp;t=1281
+  description: A crash course on how to do Monte Carlo simulations and the basics of running code on a cluster. 
+
+
 
   
 
