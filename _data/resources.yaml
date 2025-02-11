@@ -262,6 +262,11 @@
   link: https://youtu.be/OdWLP8umw3A?si=dNMmU4oxUXuKP7P5&amp;t=1281
   description: A crash course on how to do Monte Carlo simulations and the basics of running code on a cluster. 
 
+- name: R for Data Science
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://r4ds.hadley.nz/
+  description: Introduction to R coding for data science applications.
 
 
   
