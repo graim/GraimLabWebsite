@@ -264,7 +264,7 @@
 
 - name: R for Data Science
   group: more
-  image: images/GatorGlobe.jpeg
+  image: https://r4ds.hadley.nz/cover.jpg
   link: https://r4ds.hadley.nz/
   description: Introduction to R coding for data science applications.
 
