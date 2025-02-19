@@ -37,13 +37,16 @@ We are a collaborative lab that works closely with researchers at UF and other u
 
 ## Masters/Undergraduate Researchers
 
-- Franco Krepel - undergraduate researcher (spring 2024 - fall 2024)
 - Nathan Gilman - undergraduate researcher (fall 2024 - spring 2025)
+- Nathan Glen - undergraduate researcher (spring 2025 - )
+- Manas Vudugula - undergraduate researcher (spring 2025 - )
+- Nikita Ostro - graduate researcher (spring 2025 - )
 
 {% include section.html %}
 
 ## Alumni
 
+- Franco Krepel - undergraduate researcher (spring 2024 - fall 2024)
 - Mira Balaji - undergraduate researcher (fall 2023 - spring 2024)
 - Rachel Fenton - undergraduate researcher (spring 2023 - spring 2024)
 - Lucas Pereira - undergraduate researcher (fall 2022 - spring 2024)
