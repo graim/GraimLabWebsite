@@ -268,7 +268,11 @@
   link: https://r4ds.hadley.nz/
   description: Introduction to R coding for data science applications.
 
-
+- name: How to read a paper
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://web.stanford.edu/class/cs114/reading-keshav.pdf
+  description: A 3 pass approach to reading journal articles.
   
 
   
