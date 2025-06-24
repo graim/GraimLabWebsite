@@ -279,6 +279,10 @@
   image: images/GatorGlobe.jpeg
   link:   https://gradadvance.graduateschool.ufl.edu/planning-resources/
   description: IDP, roadmap, and other resources for UF graduate students.
-  
 
-  
+- name: Google Machine Learning Education
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://developers.google.com/machine-learning
+  description: Learn to build ML products with Google's Machine Learning Courses.
+
