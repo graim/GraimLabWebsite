@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-The Graim lab is currently recruiting PhD students, undergraduate researchers. PhD students can apply through [CISE](https://www.cise.ufl.edu/academics/graduate/phd/) or the [Genetics and Genomics](http://ufgi.ufl.edu/grad-program/) program at UF. Graduate level researchers should send an introductory email and undergraduate researchers should apply through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfVRt82UDINJlIHZn858qKjeD8qR4kIAMq85jNibOfhf0Vy_g/viewform?usp=sf_link).
+The Graim lab is currently recruiting undergraduate researchers, PhD students, and postdoctoral scholars. Prospective PhD students can apply through [CISE](https://www.cise.ufl.edu/academics/graduate/phd/) or the [Genetics and Genomics](http://ufgi.ufl.edu/grad-program/) program at UF, and please also send an introductory email outlining your relevant training and what specifically interests you about the lab. Undergraduate researchers should apply through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfVRt82UDINJlIHZn858qKjeD8qR4kIAMq85jNibOfhf0Vy_g/viewform?usp=sf_link).
  
 We are a collaborative lab that works closely with researchers at UF and other universities.
 
@@ -39,13 +39,13 @@ We are a collaborative lab that works closely with researchers at UF and other u
 
 - Nathan Gilman - undergraduate researcher (fall 2024 - spring 2025)
 - Nathan Glen - undergraduate researcher (spring 2025 - )
-- Manas Vudugula - undergraduate researcher (spring 2025 - )
-- Nikita Ostro - graduate researcher (spring 2025 - )
 
 {% include section.html %}
 
 ## Alumni
 
+- Nikita Ostro - graduate researcher (spring 2025)
+- Manas Vudugula - undergraduate researcher (spring 2025)
 - Franco Krepel - undergraduate researcher (spring 2024 - fall 2024)
 - Mira Balaji - undergraduate researcher (fall 2023 - spring 2024)
 - Rachel Fenton - undergraduate researcher (spring 2023 - spring 2024)
