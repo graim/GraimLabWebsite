@@ -286,3 +286,10 @@
   link: https://developers.google.com/machine-learning
   description: Learn to build ML products with Google's Machine Learning Courses.
 
+
+- name: Statistical test flowchart
+  group: more
+  image: https://statsandr.com/blog/what-statistical-test-should-i-do/images/overview-statistical-tests-statsandr.svg
+  link: https://statsandr.com/blog/what-statistical-test-should-i-do/
+  description: A flowchart to help select which statistical should be used in a variety of common scenarios.
+
