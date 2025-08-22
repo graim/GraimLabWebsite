@@ -3,7 +3,7 @@ name: Nathan Gilman
 image: images/Nathan_Gilman.jpeg
 description: PhD Student
 role: phd
-group: alum
+group: phd
 aliases:
   - N.Gilman
   - N Gilman
