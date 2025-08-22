@@ -3,7 +3,7 @@ name: Leslie Smith
 image: images/Leslie_Smith.JPG
 description: PhD Student
 role: phd
-group: alum
+group: phd
 aliases:
   - L.Smith
   - L Smith
