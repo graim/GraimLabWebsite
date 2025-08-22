@@ -3,7 +3,7 @@ name: Gitanjali Lakshminarayanan
 image: images/Gita_Lakshminarayanan.jpeg
 description: MD/PhD Student
 role: phd
-group: alum
+group: phd
 aliases:
   - G.Lakshminarayanan
   - G Lakshminarayanan
