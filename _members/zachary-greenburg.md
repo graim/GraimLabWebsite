@@ -3,11 +3,11 @@ name: Zachary F Greenberg
 image: images/Zachary_Greenberg.jpg
 description: PhD Student
 role: phd
-group: alum
+group: phd
 aliases:
   - Z Greenburg
   - Z.Greenburg
 
 ---
 
-Zack is a pharmacy PhD student in Dr. Mei He's lab at UF, and is also co-advised by the Graim Lab. Zack started working with the Graim Lab in Fall 2020.
+Zack is a pharmacy PhD student in Dr. Mei He's lab at UF, and is also co-advised by the Graim Lab. Zack joined the Graim Lab in Fall 2020.
