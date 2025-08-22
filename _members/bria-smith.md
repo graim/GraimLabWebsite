@@ -3,7 +3,7 @@ name: Bria Smith
 image: images/Bria_Smith.jpg
 description: PhD Student
 role: phd
-group: alum
+group: phd
 aliases:
   - B.Smith
   - B Smith
