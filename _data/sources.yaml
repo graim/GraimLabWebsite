@@ -1,3 +1,25 @@
+- id: doi:doi.org/10.1186/s12951-025-03527-3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12951-025-03527-3/MediaObjects/12951_2025_3527_Figa_HTML.png
+  tags:
+    - tools
+
+- id: doi:doi.org/10.21203/rs.3.rs-6915262/v1
+  image: https://www.researchsquare.com/static/img/logos/logo-rs.svg
+  tags:
+    - tools
+
+- id: doi:doi.org/10.1038/s41467-025-57216-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-025-57216-8/MediaObjects/41467_2025_57216_Fig1_HTML.png
+  tags:
+    - tools
+    - cancer
+    - comparative genomics
+
+- id: doi:doi.org/10.1186/s13054-024-05216-3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13054-024-05216-3/MediaObjects/13054_2024_5216_Fig1_HTML.png
+  tags:
+    - sepsis
+
 - id: doi:doi.org/10.1146/annurev-biodatasci-102423-111936
   image: https://www.annualreviews.org/docserver/fulltext/biodatasci/7/1/bd70107.f1.gif
   tags:
