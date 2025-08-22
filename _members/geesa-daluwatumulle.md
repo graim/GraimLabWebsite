@@ -3,7 +3,7 @@ name: Geesa Daluwatumulle
 image: images/Geesa_Daluwatumulle.jpg
 description: PhD Student
 role: phd
-group: alum
+group: phd
 aliases:
   - G.Daluwatumulle
   - G Daluwatumulle
