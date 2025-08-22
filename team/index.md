@@ -37,7 +37,6 @@ We are a collaborative lab that works closely with researchers at UF and other u
 
 ## Masters/Undergraduate Researchers
 
-- Nathan Gilman - undergraduate researcher (fall 2024 - spring 2025)
 - Nathan Glen - undergraduate researcher (spring 2025 - )
 
 {% include section.html %}
