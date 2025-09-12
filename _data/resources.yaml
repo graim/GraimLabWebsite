@@ -286,10 +286,21 @@
   link: https://developers.google.com/machine-learning
   description: Learn to build ML products with Google's Machine Learning Courses.
 
-
 - name: Statistical test flowchart
   group: more
   image: https://statsandr.com/blog/what-statistical-test-should-i-do/images/overview-statistical-tests-statsandr.svg
   link: https://statsandr.com/blog/what-statistical-test-should-i-do/
   description: A flowchart to help select which statistical should be used in a variety of common scenarios.
+
+- name: scRNA Best Practices Python 
+  group: more
+  image: https://www.sc-best-practices.org/_static/logo.png
+  link: https://www.sc-best-practices.org/preamble.html
+  description: This book aims to guide both beginners and experienced professionals in best practices of single-cell sequencing analysis. 
+
+- name: scRNA Best Practices Bioconductor 
+  group: more
+  image: https://raw.githubusercontent.com/Bioconductor/BiocStickers/devel/Bioconductor/Bioconductor-serial.gif
+  link: https://bioconductor.org/books/release/OSCA/
+  description: This book will show you how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore scRNA-seq data. 
 
