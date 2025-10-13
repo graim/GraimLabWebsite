@@ -304,3 +304,9 @@
   link: https://bioconductor.org/books/release/OSCA/
   description: This book will show you how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore scRNA-seq data. 
 
+- name: scRNA Best Practices Bioconductor 
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials.html
+  description: Tutorials from the 2025 epigenomics workshop. 
+  
