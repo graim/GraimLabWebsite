@@ -328,7 +328,7 @@
   link: https://www.molbiolcell.org/doi/full/10.1091/mbc.E15-02-0076
   description: Pollard, Pollard, and Pollard provide guidelines for using statistical methods to analyze the types of experiments reported in cellular and molecular biology journals.
   
-- name: SuperPlots: Communicating reproducibility and variability in cell biology
+- name: SuperPlots
   group: more
   image: images/GatorGlobe.jpeg
   link: https://rupress.org/jcb/article/219/6/e202001064/151717/SuperPlots-Communicating-reproducibility-and
