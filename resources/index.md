@@ -19,6 +19,22 @@ Useful links, etc
 
 {% include section.html %}
 
+## Reading and writing papers
+
+{% include list.html component="card" data="resources" filters="group: writing" style="small" %}
+
+## Visualizations
+
+{% include list.html component="card" data="resources" filters="group: visualizations" style="small" %}
+
+## Coding
+
+{% include list.html component="card" data="resources" filters="group: coding" style="small" %}
+
+## AI and statistics
+
+{% include list.html component="card" data="resources" filters="group: AIstatistics" style="small" %}
+
 ## More
 
 {% include list.html component="card" data="resources" filters="group: more" style="small" %}
