@@ -6,7 +6,7 @@
 
 - name: Charles Darwin And The Terrible, Horrible, No Good, Very Bad Day
   group: featured
-  image: images/GatorGlobe.jpeg
+  image: https://media.npr.org/assets/img/2012/10/18/i-m-feeling-very-poorly_custom-c963d3cb8034e8b4ad771e892ca1f92ac55ef723.jpg
   link: https://www.npr.org/sections/krulwich/2012/10/18/163181524/charles-darwin-and-the-terrible-horrible-no-good-very-bad-day
   description: I guess everybody, even the smartest people who ever lived, have days when they feel dumb — really, really dumb. Oct. 1, 1861, was that kind of day for Charles Darwin.
 
