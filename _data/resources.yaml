@@ -11,73 +11,73 @@
   description: I guess everybody, even the smartest people who ever lived, have days when they feel dumb — really, really dumb. Oct. 1, 1861, was that kind of day for Charles Darwin.
 
 - name: Good enough practices in scientific computing
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
   description: "This paper presents a set of good computing practices that every researcher can adopt, regardless of their current level of computational skill."
   
 - name: The Missing Semester of Your CS Education
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link: https://missing.csail.mit.edu/
   description: Learning the command line, data management, and other important CS skills that you may not have learned yet.
 
 - name: Manuscript writing advice
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link: https://www.nature.com/articles/d41586-019-01431-z
   description: "How small changes to a paper can help to smooth the review process."
 
 - name: Designing an award-winning poster
-  group: more
+  group: visualizations
   image: https://static.wixstatic.com/media/a440e2_492f829849774ddd9542fd9025d706e7~mv2.png
   link:   https://www.animateyour.science/post/how-to-design-an-award-winning-conference-poster
   description: Blog post describing good poster design principles.
    
 - name: Introduction to statistics (original R version)
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://learningstatisticswithr.com/
   description: A introductory book to statistical analysis using R. 
    
 - name: Introduction to statistics (python version)
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://ethanweed.github.io/pythonbook/landingpage.html
   description: A introductory book to statistical analysis using Python. 
 
-- name: Alex's Lemonade Stand Training Modules
-  group: more
+- name: Alexs Lemonade Stand Training Modules
+  group: coding
   image: https://www.alexslemonade.org/sites/all/themes/alsf_adaptive/images/alsf-logo.png
   link: https://github.com/AlexsLemonade/training-modules
   description: This repository is a collection of modules that are combined into 1-5 day workshops on computational topics for the childhood cancer research community.
 
 - name: Bash tutorials
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link:   https://ryanstutorials.net/bash-scripting-tutorial/
   description: An introduction to bash scripting.
   
 - name: Fundamentals of Data Viz
-  group: more
+  group: visualizations
   image: images/GatorGlobe.jpeg
   link: https://clauswilke.com/dataviz/
   description: A textbook and accompanying codebase on data visualization. 
 
 - name: Data Carpentry Genomics Workshop
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link: https://datacarpentry.org/genomics-workshop/
   description: This workshop teaches data management and analysis for genomics research. 
    
 - name: Statistical vignette of the day
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://dynamicecology.wordpress.com/2018/03/19/statistical-vignette-of-the-day-as-a-teaching-tool/
   description: "Interesting statistical anomalies and correlations."
   
 - name: Silhouette images
-  group: more
+  group: visualizations
   image: images/GatorGlobe.jpeg
   link: http://phylopic.org/
   description: Free silhouette images of animals, plants, etc.
@@ -89,19 +89,19 @@
   description: Tool for identifying gendered language in job ads and letters of ref.
 
 - name: R EasyStats
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://easystats.github.io/easystats/
   description: A collection of R packages for easy statistics and models.
 
 - name: What they forgot to teach you about R
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link: https://rstats.wtf/
   description: This book focuses on content intrinsically related to the infrastructure surrounding data analysis in R, but does not delve into the data analysis itself.
 
 - name: DIY.transcriptomics
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link: https://diytranscriptomics.com/
   description: Best practices for the analysis of high-throughput sequencing data from gene expression (RNA-seq) studies.
@@ -113,49 +113,49 @@
   description: Ten simple rules for attending your first conference.
 
 - name: The Elements of Statistical Learning
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://hastie.su.domains/ElemStatLearn/ 
   description: Recommended textbook on data mining, statistics, and predictive modeling.
 
 - name: CCDL Workshop Materials
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link: https://www.ccdatalab.org/workshop-materials
   description: Workshop materials from the Childhood Cancer Data Lab.
  
 - name: The Science of Scientific Writing
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link: https://lowepowerlab.ucdavis.edu/assets/resources/science_of_writing.pdf
   description: A guide to revising/improving your scientific writing.
 
 - name: How to read a scientific article
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link: https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf
   description: Efficient Reading of Papers in Science and Technology.
 
 - name: Current Topics in Bioinformatics workshops
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link: https://hbctraining.github.io/Training-modules/
   description: Tutorials by the Harvard Chang bioinformatics core.
 
 - name: Posit R snippets
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link: https://posit.cloud/learn/recipes
   description: A collection of R code snippets and instructions featuring up-to-date best practices for coding in R
 
 - name: NCI Bioinformatics Training & Education Program
-  group: more
+  group: coding
   image: https://btep.ccr.cancer.gov/wp-content/uploads/nihlogo.svg
   link: https://bioinformatics.ccr.cancer.gov/btep/
   description: Enabling scientists to understand and analyze their own experimental data by providing instruction and training in bioinformatics software, databases, analyses techniques, and emerging technologies.
 
 - name: Ten simple rules for structuring papers
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619
   description: A short guide to writing scientific papers.
@@ -166,20 +166,14 @@
   link: https://collections.plos.org/collection/ten-simple-rules/
   description: A quick, concentrated guides for mastering some of the professional challenges research scientists face in their careers.
 
-- name: Nature Summary Paragraph
-  group: more
-  image: images/GatorGlobe.jpeg
-  link: https://www.nature.com/documents/nature-summary-paragraph.pdf
-  description: An annotated summary paragraph provided by Nature. 
-
 - name: Nature English Communication for Scientists
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link:   https://www.nature.com/scitable/ebooks/cntNm-14053993/contents/
   description: Nature guide to writing.  
 
 - name: NIH Clear Language Guide
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link:   https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/plain-language/plain-language-getting-started-or-brushing
   description: This website consists of five sections and a checklist you can print. In each section, you will find a number of cards you can flip through to learn about using plain language in your work. When you are done with the final section, you can print a certificate of completion. 
@@ -191,7 +185,7 @@
   description: From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid. 
 
 - name: Nature summary paragraph
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link:   https://www.nature.com/documents/nature-summary-paragraph.pdf
   description: Color-coded example of how to write an abstract.
@@ -203,73 +197,73 @@
   description: Claus Wilke's guide to getting 5 faculty into a room at the same time to listen to your annual research update. 
 
 - name: Latex equation editor
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link: https://editor.codecogs.com/
   description: For when you really need a high quality image of your latex equation and don't want to screenshot it. 
 
 - name: Latex symbol finder
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link: https://detexify.kirelabs.org/classify.html
   description: When you can't remember what the latex name is for a symbol, detexify has your back. It lets you draw the symbol and will show close matches.
 
 - name: Latex table generator
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link: https://www.tablesgenerator.com/
   description: An easy way to create beautiful latex tables. 
 
 - name: NIAID BioArt repository
-  group: more
+  group: visualizations
   image: https://bioart.niaid.nih.gov/images/bioart_tile.png
   link: https://bioart.niaid.nih.gov/
   description: Build figures, presentations, and illustrations with 2,000+ science and medical art visuals. This collection of high-quality, scientifically accurate vectors, icons, and brushes is freely available within the public domain. 
   
-- name: Friends Don't Let Friends Make Bad Graphs
-  group: more
+- name: Friends Dont Let Friends Make Bad Graphs
+  group: visualizations
   image: https://github.com/cxli233/FriendsDontLetFriends/raw/main/Results/dont_bar_plot.png
   link: https://github.com/cxli233/FriendsDontLetFriends
   description: Chenxin Li's guide to data visualization. Friends don't let friends make certain types of data visualization - What are they and why are they bad.
 
 - name: Visualization Workshop Slides
-  group: more
+  group: visualizations
   image: images/GatorGlobe.jpeg
   link: https://drive.google.com/file/d/1LouVvISCRlWkItZgzoHcgoU5Q1VyHT4U/view
   description: Slides from Dan Larremore and Sam Way's workshop on data visualization. 
 
 - name: MatPlotLib Cheatsheets
-  group: more
+  group: visualizations
   image: https://matplotlib.org/cheatsheets/_static/logo_light.svg
   link: https://matplotlib.org/cheatsheets/
   description: Tips and cheatsheets by and for MatPlotLib.  
   
 - name: ColorHunt Palette Guide
-  group: more
+  group: visualizations
   image: images/GatorGlobe.jpeg
   link: https://colorhunt.co/
   description: A whole lot of color palettes. 
 
 - name: Scientific Writing Made Easy
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.1258
   description: A step-by-step guide to writing a scientific manuscript. 
 
 - name: Monte Carlo simulations explained
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://youtu.be/OdWLP8umw3A?si=dNMmU4oxUXuKP7P5&amp;t=1281
   description: A crash course on how to do Monte Carlo simulations and the basics of running code on a cluster. 
 
 - name: R for Data Science
-  group: more
+  group: AIstatistics
   image: https://r4ds.hadley.nz/cover.jpg
   link: https://r4ds.hadley.nz/
   description: Introduction to R coding for data science applications.
 
 - name: How to read a paper
-  group: more
+  group: writing
   image: images/GatorGlobe.jpeg
   link: https://web.stanford.edu/class/cs114/reading-keshav.pdf
   description: A 3 pass approach to reading journal articles.
@@ -281,55 +275,56 @@
   description: IDP, roadmap, and other resources for UF graduate students.
 
 - name: Google Machine Learning Education
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://developers.google.com/machine-learning
   description: Learn to build ML products with Google's Machine Learning Courses.
 
 - name: Statistical test flowchart
-  group: more
+  group: AIstatistics
   image: https://statsandr.com/blog/what-statistical-test-should-i-do/images/overview-statistical-tests-statsandr.svg
   link: https://statsandr.com/blog/what-statistical-test-should-i-do/
   description: A flowchart to help select which statistical should be used in a variety of common scenarios.
 
 - name: scRNA Best Practices Python 
-  group: more
+  group: coding
   image: https://www.sc-best-practices.org/_static/logo.png
   link: https://www.sc-best-practices.org/preamble.html
   description: This book aims to guide both beginners and experienced professionals in best practices of single-cell sequencing analysis. 
 
 - name: scRNA Best Practices Bioconductor 
-  group: more
+  group: coding
   image: https://raw.githubusercontent.com/Bioconductor/BiocStickers/devel/Bioconductor/Bioconductor-serial.gif
   link: https://bioconductor.org/books/release/OSCA/
   description: This book will show you how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore scRNA-seq data. 
 
 - name: scRNA Best Practices Bioconductor 
-  group: more
+  group: coding
   image: images/GatorGlobe.jpeg
   link: https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials.html
   description: Tutorials from the 2025 epigenomics workshop. 
   
 - name: GraphPad Principles of Statistics
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://www.graphpad.com/guides/prism/latest/statistics/stat_---_principles_of_statistics_-.htm
   description: The first half of this Guide reviews general principles of statistics, and is not at all specific to GraphPad Prism.
   
 - name: Common statistical tests are linear models
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://lindeloev.github.io/tests-as-linear/
   description: Shows the linear models underlying common parametric and non-parametric tests.
   
 - name: Empowering statistical methods for cellular and molecular biologists
-  group: more
+  group: AIstatistics
   image: images/GatorGlobe.jpeg
   link: https://www.molbiolcell.org/doi/full/10.1091/mbc.E15-02-0076
   description: Pollard, Pollard, and Pollard provide guidelines for using statistical methods to analyze the types of experiments reported in cellular and molecular biology journals.
   
 - name: SuperPlots
-  group: more
+  group: visualizations
   image: images/GatorGlobe.jpeg
   link: https://rupress.org/jcb/article/219/6/e202001064/151717/SuperPlots-Communicating-reproducibility-and
   description:  We provide examples and practical tutorials for creating figures that communicate both the cell-level variability and the experimental reproducibility.
+
