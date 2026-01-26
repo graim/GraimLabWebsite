@@ -161,7 +161,7 @@
   description: A short guide to writing scientific papers.
 
 - name: PLoS Collection 10 Simple Rules
-  group: more
+  group: featured
   image: https://collections.plos.org/wp-content/uploads/2020/01/logo-sea.svg
   link: https://collections.plos.org/collection/ten-simple-rules/
   description: A quick, concentrated guides for mastering some of the professional challenges research scientists face in their careers.
@@ -179,7 +179,7 @@
   description: This website consists of five sections and a checklist you can print. In each section, you will find a number of cards you can flip through to learn about using plain language in your work. When you are done with the final section, you can print a certificate of completion. 
 
 - name: Data To Viz
-  group: featured
+  group: visualizations
   image: https://www.data-to-viz.com/img/logo/tree-s.png
   link: https://www.data-to-viz.com/
   description: From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid. 
