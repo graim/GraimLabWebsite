@@ -310,3 +310,32 @@
   link: https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials.html
   description: Tutorials from the 2025 epigenomics workshop. 
   
+- name: GraphPad Principles of Statistics
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://www.graphpad.com/guides/prism/latest/statistics/stat_---_principles_of_statistics_-.htm
+  description: The first half of this Guide reviews general principles of statistics, and is not at all specific to GraphPad Prism.
+  
+- name: Common statistical tests are linear models
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://lindeloev.github.io/tests-as-linear/
+  description: Shows the linear models underlying common parametric and non-parametric tests.
+  
+- name: Empowering statistical methods for cellular and molecular biologists
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://www.molbiolcell.org/doi/full/10.1091/mbc.E15-02-0076
+  description: Pollard, Pollard, and Pollard provide guidelines for using statistical methods to analyze the types of experiments reported in cellular and molecular biology journals.
+  
+- name: SuperPlots: Communicating reproducibility and variability in cell biology
+  group: more
+  image: images/GatorGlobe.jpeg
+  link: https://rupress.org/jcb/article/219/6/e202001064/151717/SuperPlots-Communicating-reproducibility-and
+  description:  We provide examples and practical tutorials for creating figures that communicate both the cell-level variability and the experimental reproducibility.
+
+
+
+
+
+  https://lindeloev.github.io/tests-as-linear/
