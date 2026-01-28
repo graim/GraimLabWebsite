@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-The Graim lab is currently recruiting undergraduate researchers, PhD students, and postdoctoral scholars. Prospective PhD students can apply through [CISE](https://www.cise.ufl.edu/academics/graduate/phd/) or the [Genetics and Genomics](http://ufgi.ufl.edu/grad-program/) program at UF, and please also send an introductory email outlining your relevant training and what specifically interests you about the lab. Undergraduate researchers should apply through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfVRt82UDINJlIHZn858qKjeD8qR4kIAMq85jNibOfhf0Vy_g/viewform?usp=sf_link).
+The Graim lab is currently recruiting undergraduate researchers, PhD students, and postdoctoral scholars. Undergraduate researchers should apply through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfVRt82UDINJlIHZn858qKjeD8qR4kIAMq85jNibOfhf0Vy_g/viewform?usp=sf_link). Prospective postdocs and PhD students please send an introductory email outlining your relevant training and what specifically interests you about the lab. Prospective PhD students should then apply through [CISE](https://www.cise.ufl.edu/academics/graduate/phd/) program at UF. 
  
 We are a collaborative lab that works closely with researchers at UF and other universities.
 
@@ -38,6 +38,7 @@ We are a collaborative lab that works closely with researchers at UF and other u
 ## Masters/Undergraduate Researchers
 
 - Nathan Glen - undergraduate researcher (spring 2025 - )
+- Andrea Mueller - undergraduate researcher (spring 2026 - )
 
 {% include section.html %}
 
@@ -77,7 +78,7 @@ Remember that the PhD is a marathon, not a race. Be kind to yourself and your la
 
 ## Funding
 
-Our work is made possible by funding from several organizations, including an NIH/NCI R01, an NIAID R21, an NSF TrailBlazer, and catalyst awards from the UF Cancer Center and UF Intelligent Critical Care Center.
+Our work is made possible by funding from several organizations, including an NIH/NCI R01, NIAID R21, NSF TrailBlazer, and catalyst awards from the UF Health Cancer Institute and UF Intelligent Critical Care Center.
 {:.center}
 <!--
 {%
