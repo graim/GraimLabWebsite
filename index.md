@@ -32,7 +32,6 @@ We are studying the evolution of cancer across mammalia, designing machine learn
   link="research"
   headline="Our Research"
   text=text
-  alt="Picture of the Graim lab"
 %}
 
 {% capture text %}
