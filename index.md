@@ -12,7 +12,7 @@ Our research facilitates learning the biological basis of these deadly diseases 
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/GraimLab_Background_ModelOrganisms.png" %}
+{% include banner.html image="images/GraimLab_Background_ModelOrganisms.png" alt="ALTTEXT" %}
 <!-- {% include banner.html image="images/banner.jpg" %} -->
 
 {% include section.html %}
