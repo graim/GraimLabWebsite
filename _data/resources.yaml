@@ -328,3 +328,10 @@
   link: https://rupress.org/jcb/article/219/6/e202001064/151717/SuperPlots-Communicating-reproducibility-and
   description:  We provide examples and practical tutorials for creating figures that communicate both the cell-level variability and the experimental reproducibility.
 
+- name: Coursera Machine Learning Specialization
+  group: AIstatistics
+  image: images/GatorGlobe.jpeg
+  link: https://www.coursera.org/specializations/machine-learning-introduction#courses
+  description: Coursera 3 course series for machine learning specialization.
+  
+
