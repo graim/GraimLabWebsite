@@ -335,7 +335,7 @@
   description: Coursera 3 course series for machine learning specialization.
 
 - name: Illustrated guide to a PhD
-  group: AIstatistics
+  group: featured
   image: https://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.007.jpg
   link: https://matt.might.net/articles/phd-school-in-pictures
   description: An illustrated explanation of what you learn during a PhD by Matt Might.
