@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools
 
-We develop tools for many genomic applications. Repositories, tutorials, and guides for these tools are shared below.
+We develop tools for many genomic applications. [GraimLab GitHub](https://github.com/orgs/GraimLab/repositories) and highlights of repositories, tutorials, and guides for these tools are shared below. 
 
 {% include search-info.html %}
 
